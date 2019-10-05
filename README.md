@@ -57,10 +57,10 @@ APIهای معرفی شده در حال حاضر ترتیب خاصی ندارن�
 :free::moneybag: | [API ابر آروان](https://api.arvancloud.com/video/doc/) | خدمات پلتفرم ویدئوی ابر آروان
 :question: | [API آپارات](https://www.aparat.com/api) | اطلاعات کانال‌ها، پروفایل‌ها و ویدئوهای سایت آپارات
 :moneybag: | [API سخنک](http://sokhanak.com/api/) | بانک سخن بزرگان
-:question: | [API کپچای متنی](http://textcaptcha.ir/api) | سرویس ارائه کپچای متنی فارسی
+:free: | [API کپچای متنی](http://textcaptcha.ir/api) | سرویس ارائه کپچای متنی فارسی
 :moneybag: | [API رایچت](https://www.raychat.io/api) | پلتفرم گفتگوی آنلاین و ارتباط با مشتریان
 :free::moneybag: | [API دیجی سروی](http://www.digisurvey.net/apihelp) | سرویس ایجاد پرسشنامه و آزمون آنلاین
-:question: | [API آریانا](http://www.farsireader.com/connection/) | سرویس متن به گفتار فارسی
+:free::moneybag: | [API آریانا](http://www.farsireader.com/connection/) | سرویس متن به گفتار فارسی
 :free: | [API گنجور](https://github.com/ganjoor/ganjoor-api) | گنجور، مخزن اشعار فارسی
 :moneybag: | [API وب‌آلفا](https://www.webalfa.net/kb/api-v2-manual) | API برای ثبت و تمدید و انتقال و به‌روزرسانی و دریافت اطلاعات دامنه‌های ir
 :question: | [API ذرت](http://filecorn.api-docs.io/) | سرویس فضای ابری اختصاصی
