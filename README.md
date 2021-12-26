@@ -231,7 +231,7 @@
  :moneybag: | [API بورس ویو](http://www.bourseview.com/views/api.html) | اطلاعات معاملاتی لحظه‎ای بازار بورس و تاریخچه آن
  :moneybag: | [API بورس سورس آرنا](https://sourcearena.ir/doc.php) | اطلاعات بازار بورس و فرابورس و همه نمادها یا یک نماد مشخص
  :moneybag: | [API بورس](https://apieco.ir/api/finnotech-stock-exchange/) | اطلاعات بازار بورس و فرابورس و همه نمادها با دقت بالا
-
+ :moneybag: | [API والکس](https://api-docs.wallex.ir) | API صرافی رمزارز والکس برای معامله کریپتو و دریافت قیمت
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
 ## قبض
