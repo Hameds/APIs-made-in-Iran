@@ -252,7 +252,7 @@
  | --- |--- | ---
  :free::moneybag: | [API نشان](https://developer.neshan.org/) | API توسعه نقشه نشان که برای دریافت آن نیاز به ثبت‌نام دارید
  :question: | [API نقشه تهران](http://map.tehran.ir/) | اطلاعات تهران بر روی نقشه، جهت خواست از منوی بیشتر گزینه رابط برنامه‌نویس نقشه را انتخاب کنید
- :question: | [API پارسی جو](http://csi.parsijoo.ir/#?q=page2) | سرویس نقشه وب سایت ایرانی پارسپی جو
+ :question: | [API پارسی جو](http://csi.parsijoo.ir/#?q=page2) | سرویس نقشه وب سایت ایرانی پارسی جو
 :free::moneybag: | [API سیدار مپ](http://api.cedarmaps.com/docs/) | سرویس نقشه ایرانی با قابلیت‌هایی نظیر تبدیل نقطه جغرافیایی به آدرس و مکان یاب و جانمایی روی نقشه
  :free::moneybag: | [API سایت map.ir](http://corp.map.ir/map-services/api-services/developers/) | یک سرویس دیگر نقشه ایرانی
  :free: | [API پارسی مپ](https://www.parsimap.com/api/v2/docs/) | سرویس نقشه ایرانی با قابلیت استفاده عمومی یا اختصاصی
