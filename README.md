@@ -80,7 +80,8 @@
 :free: | [API اکسیر](https://apidocs.exir.io/) | پلتفورم هوشمند و اتوماتیک مبادله بیت کوین و سایر رمزارزها
 :moneybag: | [API قیمت خودرو سورس آرنا](http://sourcearena.ir/car-doc.php) | قیمت روزانه خودروها
 :question: | [API سرویس‌های پاد](http://docs.pod.ir/) | مستندات سرویس‌های متنوع پاد از فناپ سافت
-
+:question: | [API درگاه رمزارز زنجیر](https://github.com/Zanjir/API-Documentation/) | وب سرویس درگاه پرداخت رمز ارز
+ 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
 ## آب و هوا
