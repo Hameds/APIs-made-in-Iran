@@ -56,7 +56,6 @@
 :free::moneybag: | [API سرویس CDN ابر آروان](https://www.arvancloud.com/docs/api/cdn/4.0) | خدمات شبکه توزیع محتوی ابر آروان
 :free::moneybag: | [API سرویس IaaS ابر آروان](https://www.arvancloud.com/docs/api/iaas/1.0) | خدمات رایانش ابری ابر آروان
 :question: | [API آپارات](https://www.aparat.com/api) | اطلاعات کانال‌ها، پروفایل‌ها و ویدئوهای سایت آپارات
-:moneybag: | [API سخنک](http://sokhanak.com/api/) | بانک سخن بزرگان
 :free: | [API کپچای متنی](http://textcaptcha.ir/api) | سرویس ارائه کپچای متنی فارسی
 :moneybag: | [API رایچت](https://www.raychat.io/api) | پلتفرم گفتگوی آنلاین و ارتباط با مشتریان
 :free::moneybag: | [API دیجی سروی](http://www.digisurvey.net/apihelp) | سرویس ایجاد پرسشنامه و آزمون آنلاین
