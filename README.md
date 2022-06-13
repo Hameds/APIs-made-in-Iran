@@ -78,7 +78,7 @@
 :moneybag: | [API پاکت](https://docs.pakat.net/) | سرویس ایمیل مارکتینگ
 :free: | [API داده نمونه فارسی](https://jsonplaceholder.ir/) | سرویسی رایگان برای برگرداندن داده نمونه شامل دسته‌بندی‌هایی نظیر پست وبلاگ، کامنت، کاربر و ... با امکان CRUD 
 :free: | [API اکسیر](https://apidocs.exir.io/) | پلتفورم هوشمند و اتوماتیک مبادله بیت کوین و سایر رمزارزها
-:moneybag: | [API قیمت خودرو سورس آرنا](http://sourcearena.ir/car-doc.php) | قیمت روزانه خودروها
+:moneybag: | [API قیمت خودرو سورس آرنا](https://sourcearena.ir/%d9%88%d8%a8-%d8%b3%d8%b1%d9%88%db%8c%d8%b3-api-%d9%82%db%8c%d9%85%d8%aa-%d8%ae%d9%88%d8%af%d8%b1%d9%88/) | قیمت روزانه خودروها
 :question: | [API سرویس‌های پاد](http://docs.pod.ir/) | مستندات سرویس‌های متنوع پاد از فناپ سافت
 :question: | [API درگاه رمزارز زنجیر](https://github.com/Zanjir/API-Documentation/) | وب سرویس درگاه پرداخت رمز ارز
  
