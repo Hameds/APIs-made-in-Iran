@@ -184,6 +184,7 @@
 :free: | [API اوقات شرعی](http://prayer.aviny.com/PrayerTimes-WebService.aspx) | سرویس جهت دریافت اوقات شرعی شهرهای ایران
 :free: | [API اوقات شرعی](http://prayer.aviny.com/PrayerTimes-WebService.aspx) | سرویس جهت دریافت اوقات شرعی شهرهای ایران
 :free: | [API تبدیل تاریخ جلالی](https://apieco.ir/api/jalali-calender-converter/) | سرویس تبدیل تاریخ به جلالی
+:free: | [API مناسبت ها و تعطیلات ایران](https://holidayapi.ir) | سرویس تعطیلات تقویم رسمی ایران
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
