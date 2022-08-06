@@ -177,7 +177,6 @@
 ## تقویم و اوقات شرعی
 وضعیت قیمت | لینک | موضوع
  | --- |--- | ---
- :free: | [API تقویم فارسی](https://farsicalendar.com/docs) | ارائه رویدادهای تقویم شمسی و قمری در قالب API
  :free: | [API گاهشمار](http://gahshomar-api.herokuapp.com) | سرویس اپن‌سورس برای کار با زمان و تاریخ با قابلیت تبدیل تاریخ
  :free: | [API اوقات شرعی](http://prayer.aviny.com/PrayerTimes-WebService.aspx) | سرویس جهت دریافت اوقات شرعی شهرهای ایران
 :free: | [API مسلم صلات](https://apieco.ir/api/muslimsalat-api/) | سرویس اوقات شرعی براساس موقعیت مکانی
