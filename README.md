@@ -49,7 +49,7 @@
 :free: | [API بهنویس](http://behnevis.com/api.html) | تبدیل پینگلیش به فارسی 
 :free: | [API حافظ](http://hafez.emrani.net/Api) | لیست غزلیات حافظ با امکان جستجو و فال
 :free::moneybag:  | [API پارسی جو](http://csi.parsijoo.ir/) | جستجوی وب، قیمت ارز و سکه، آب و هوا و نقشه بر اساس خدمات سایت جستجوگر ایرانی پارسی جو
-:free: | [API لحظه‌نگار](http://docs.lahzenegar.com/api/) | پلتفرم عمومی پخش زنده اینترنتی لحظه‌نگار
+:free: | [API لحظه‌نگار](https://app.swaggerhub.com/apis/Parsizabanan/lahzenegar/) | پلتفرم عمومی پخش زنده اینترنتی لحظه‌نگار
 :free::moneybag: | [API سرویس VoD ابر آروان](https://www.arvancloud.com/docs/api/vod/2.0) | خدمات پلتفرم ویدئوی ابر آروان
 :free::moneybag: | [API سرویس پخش زنده ابر آروان](https://www.arvancloud.com/docs/api/live/2.0) | خدمات پلتفرم پخش زنده ابر آروان
 :free::moneybag: | [API سرویس تبلیغات ویدویی ابر آروان](https://www.arvancloud.com/docs/api/vads/2.0) | خدمات تبلیغات ویدیویی ابر آروان
