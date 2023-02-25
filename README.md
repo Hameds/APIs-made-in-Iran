@@ -47,11 +47,10 @@
 :free: | [API بهنویس](http://behnevis.com/api.html) | تبدیل پینگلیش به فارسی 
 :free: | [API حافظ](http://hafez.emrani.net/Api) | لیست غزلیات حافظ با امکان جستجو و فال
 :free: | [API لحظه‌نگار](https://app.swaggerhub.com/apis/Parsizabanan/lahzenegar/) | پلتفرم عمومی پخش زنده اینترنتی لحظه‌نگار
-:free::moneybag: | [API سرویس VoD ابر آروان](https://www.arvancloud.com/docs/api/vod/2.0) | خدمات پلتفرم ویدئوی ابر آروان
-:free::moneybag: | [API سرویس پخش زنده ابر آروان](https://www.arvancloud.com/docs/api/live/2.0) | خدمات پلتفرم پخش زنده ابر آروان
-:free::moneybag: | [API سرویس تبلیغات ویدویی ابر آروان](https://www.arvancloud.com/docs/api/vads/2.0) | خدمات تبلیغات ویدیویی ابر آروان
-:free::moneybag: | [API سرویس CDN ابر آروان](https://www.arvancloud.com/docs/api/cdn/4.0) | خدمات شبکه توزیع محتوی ابر آروان
-:free::moneybag: | [API سرویس IaaS ابر آروان](https://www.arvancloud.com/docs/api/iaas/1.0) | خدمات رایانش ابری ابر آروان
+:free::moneybag: | [API سرویس VoD ابر آروان](https://www.arvancloud.ir/api/vod/2.0) | خدمات پلتفرم ویدئوی ابر آروان
+:free::moneybag: | [API سرویس تبلیغات ویدویی ابر آروان](https://www.arvancloud.ir/api/vads/2.0) | خدمات تبلیغات ویدیویی ابر آروان
+:free::moneybag: | [API سرویس CDN ابر آروان](https://www.arvancloud.ir/api/cdn/4.0) | خدمات شبکه توزیع محتوی ابر آروان
+:free::moneybag: | [API سرویس IaaS ابر آروان](https://www.arvancloud.ir/api/iaas/1.0) | خدمات رایانش ابری ابر آروان
 :question: | [API آپارات](https://www.aparat.com/api) | اطلاعات کانال‌ها، پروفایل‌ها و ویدئوهای سایت آپارات
 :free: | [API کپچای متنی](http://textcaptcha.ir/api) | سرویس ارائه کپچای متنی فارسی
 :moneybag: | [API رایچت](https://www.raychat.io/api) | پلتفرم گفتگوی آنلاین و ارتباط با مشتریان
