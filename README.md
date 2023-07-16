@@ -38,7 +38,6 @@
 - [بانک و پرداخت آنلاین](#بانک-و-پرداخت-آنلاین)
 - [پردازش متن](#پردازش-متن)
 - [پردازش گفتار](#پردازش-گفتار)
-- [پوش نوتیفیکیشن](#پوش-نوتیفیکیشن)
 - [پیام‌رسان](#پیام-رسان)
 - [تقویم و اوقات شرعی](#تقویم-و-اوقات-شرعی)
 - [حمل و نقل و سفر](#حمل-و-نقل-و-سفر)
@@ -88,6 +87,7 @@
 :question: | [API نامبرلند](https://numberland.ir/developers) | سرویس ارائه شماره مجازی
 :moneybag: | [API قبضینو](https://ghabzino.com/api) | مجموعه استعلام‌های قبوض مختلف خدماتی از جمله قبض آب و برق و گاز و ... 
 :question: | [API تامین اجتماعی](https://apiissue.tamin.ir/) | مجموعه راهنماهای پیاده‌سازی API دارو و استعلامات تامین اجتماعی <!-- markdown-link-check-disable-line -->
+ :free::moneybag: | [API نجوا](https://doc.najva.com/) | سرویس پوش نوتیفیکیشن نجوا
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
@@ -97,7 +97,7 @@
  :free: | [API بانک ملی](https://sadadpsp.ir/fa/content/id/131/درگاه-پرداخت-اینترنتی-(IPG)) | سرویس درگاه پرداخت اینترنتی بانک ملی - سداد <!-- markdown-link-check-disable-line -->
  :free: | [API بانک مسکن](https://www.navaco.org/Home/GeneralEducation) | سرویس درگاه پرداخت اینترنتی بانک مسکن - فن آوا کارت <!-- markdown-link-check-disable-line -->
  :free: | [API بانک پاسارگاد](https://www.pep.co.ir/ipg/) | سرویس درگاه پرداخت اینترنتی بانک پاسارگاد - پرداخت الکترونیک پاسارگاد
- :free: | [API بانک کارآفرین](https://www.irankish.com/page/download_module) | سرویس درگاه پرداخت اینترنتی بانک کارآفرین - کارت اعتباری ایران کیش
+ :free: | [API بانک کارآفرین](https://www.irankish.com/page/download_module) | سرویس درگاه پرداخت اینترنتی بانک کارآفرین - کارت اعتباری ایران کیش <!-- markdown-link-check-disable-line -->
  :moneybag: | [API آیدی پی](https://idpay.ir/web-service/) | سرویس درگاه پرداخت شخصی و کارت خوان مجازی <!-- markdown-link-check-disable-line -->
  :free::moneybag: | [API زرین پال](https://docs.zarinpal.com/) | سرویس درگاه پرداخت شخصی 
  :free::moneybag: | [API نکس پی ](https://nextpay.ir/plugins/) | سرویس درگاه شبکه پرداخت نکس پی
@@ -131,14 +131,6 @@
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
-## پوش نوتیفیکیشن
-وضعیت قیمت | لینک | موضوع
- | --- |--- | ---
- :free::moneybag: | [API پوشه](https://pushe.co/docs) | سرویس ارسال پوش نوتیفیکیشن
- :free::moneybag: | [API نجوا](https://doc.najva.com/) | سرویس پوش نوتیفیکیشن نجوا
-
-[:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
-
 ## پیام رسان
 وضعیت قیمت | لینک | موضوع
  | --- |--- | ---
@@ -166,7 +158,7 @@
  :free: | [API الوپیک](https://alopeyk.com/api) | سرویس حمل و نقل با پیک
  :moneybag: | [API فلوکس](https://phelox.ir/document) | درگاه مدیریت و ارائه خدمات حمل، بسته بندی، لجستیک و انبارداری فروشگاه های اینترنتیب
  :moneybag: | [API منحنی](https://planner.monhani.ir/) | API تجاری و غیر رایگان برای برنامه‌ریزی سفر
- :question: | [API سفر۷۲۴](https://safar724.net/post/safar724/api) | وب سرویس و API فروش بلیت اتوبوس که با درخواست ایمیلی ارائه می‌گردد
+ :question: | [API سفر۷۲۴](https://safar724.com/post/safar724/api) | وب سرویس و API فروش بلیت اتوبوس که با درخواست ایمیلی ارائه می‌گردد
  :moneybag: | [API های هالیدی](http://hiholiday.ir/webservice) |  سرویس پروازهای چارتر و هتل‌های ایران و بیمه مسافرتی
  :moneybag: | [API تیپاکس](https://tipaxco.com/etipax) | پلتفرم تیپاکس
  :moneybag: | [API پست بار](https://postbar.ir/%D9%86%D8%AD%D9%88%D9%87-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-api-%D9%BE%D8%B3%D8%AA-%D8%A8%D8%A7%D8%B1) | سرویس پست بار
