@@ -99,7 +99,6 @@
  :free: | [API بانک کارآفرین](https://www.irankish.com/page/download_module) | سرویس درگاه پرداخت اینترنتی بانک کارآفرین - کارت اعتباری ایران کیش
  :moneybag: | [API آیدی پی](https://idpay.ir/web-service/) | سرویس درگاه پرداخت شخصی و کارت خوان مجازی
  :free::moneybag: | [API زرین پال](https://docs.zarinpal.com/) | سرویس درگاه پرداخت شخصی 
- :moneybag: | [API شبکه پرداخت پِی ](https://docs.pay.ir/gateway/) | سرویس درگاه شبکه پرداخت پِی
  :free::moneybag: | [API نکس پی ](https://nextpay.ir/plugins/) | سرویس درگاه شبکه پرداخت نکس پی
  :free::moneybag: | [API پی پینگ ](https://docs.payping.ir/) | سرویس درگاه شبکه پرداخت پی پینگ
  :moneybag: | [API کافه‌بازار](http://developers.cafebazaar.ir/fa/docs/developer-api-v2-introduction/developer-api-v2-ref-validate/) | برای بررسی وضعیت خرید و اشتراک‌های برنامه منتشر شده در بازار
@@ -152,8 +151,7 @@
 ## تقویم و اوقات شرعی
 وضعیت قیمت | لینک | موضوع
  | --- |--- | ---
- :free: | [API گاهشمار](http://gahshomar-api.herokuapp.com) | سرویس اپن‌سورس برای کار با زمان و تاریخ با قابلیت تبدیل تاریخ
- :free: | [API اوقات شرعی](http://prayer.aviny.com/PrayerTimes-WebService.aspx) | سرویس جهت دریافت اوقات شرعی شهرهای ایران
+:free: | [API اوقات شرعی](http://prayer.aviny.com/PrayerTimes-WebService.aspx) | سرویس جهت دریافت اوقات شرعی شهرهای ایران
 :free: | [API اوقات شرعی](http://prayer.aviny.com/PrayerTimes-WebService.aspx) | سرویس جهت دریافت اوقات شرعی شهرهای ایران
 :free: | [API اوقات شرعی](http://prayer.aviny.com/PrayerTimes-WebService.aspx) | سرویس جهت دریافت اوقات شرعی شهرهای ایران
 :free: | [API مناسبت ها و تعطیلات ایران](https://holidayapi.ir) | سرویس تعطیلات تقویم رسمی ایران
@@ -192,7 +190,6 @@
 وضعیت قیمت | لینک | موضوع
  | --- |--- | ---
  :moneybag: | [API بازار بورس تهران](http://db.api.mabnadp.com/) | شامل کلیه اطلاعات مالی، اخبار و معاملات و سایر داده‌های بازار بورس تهران
- :question: | [API توسن بوم](http://tosanboom.com/home/help/api-list) | سرویس‌های بانکی نظیر فهرست سپرده‌های مشتریان بانک‌ها، انتقال وجه بین سپرده‌ها، اعلام موجودی کارت و ...
  :question: | [API فینوتک](https://apibeta.finnotech.ir/) | خدمات بانکی بر پایه دو دسته سرویس‌های مبتنی بر کارت و سرویس‌های مبتنی بر حساب بانکی
  :question: | [API نوآوران امین](http://www.nadpco.com/#/HelpAPI) | سرویس اطلاعات بازار بورس تهران
  :free::moneybag: | [API حساب‌فا](https://hesabfa.com/help/api) | سرویس حسابداری آنلاین 
@@ -210,7 +207,6 @@
 :free::moneybag: | [API سیدار مپ](http://api.cedarmaps.com/docs/) | سرویس نقشه ایرانی با قابلیت‌هایی نظیر تبدیل نقطه جغرافیایی به آدرس و مکان یاب و جانمایی روی نقشه
  :free::moneybag: | [API سایت map.ir](http://corp.map.ir/map-services/api-services/developers/) | یک سرویس دیگر نقشه ایرانی
  :free: | [API پارسی مپ](https://www.parsimap.com/api/v2/docs/) | سرویس نقشه ایرانی با قابلیت استفاده عمومی یا اختصاصی
- :free: | [API اطلاعات شهرداری مشهد](http://developer.mashhad.ir/web_directory/100147-%D9%81%D9%87%D8%B1%D8%B3%D8%AA-API.html) | اطلاعات شاخص کیفیت هوا، ظرفیت لحظه‌ای پارکنیگ‌ها و نقشه و اطلاع‌رسانی اتوبوسرانی. برای دریافت اطلاعات نیازمند تماس هستید
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
