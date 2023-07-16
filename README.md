@@ -8,20 +8,19 @@
 
 **سلب مسئولیت** بدیهی است کلیه مسئولیت‌های مربوط به API های لیست شده در این مخزن در خصوص تطابق با قانون، پشتیبانی، حق مالکیت و موارد حقوقی و هر گونه مسئولیت دیگر، صرفاً به عهده ارائه‌دهنده API است. کلماتی که در توصیف یا توضیح هر API ارائه شده‌اند بر اساس توضیحات یا ادعاهای ارائه‌کننده بوده و مشارکت‌کنندگان در این لیست، هیچ مسئولیتی در قبال صحت اطلاعات یا کارکرد یا امنیت API های معرفی شده ندارند
 
-## نکته
+## راهنمای قیمت‌ها
 
-:free: برای مشخص کردن سرویس‌های کاملا رایگان استفاده شده است.
+از :free: برای مشخص کردن سرویس‌های کاملا رایگان استفاده شده است.
 
-:moneybag: برای مشخص کردن سرویس‌های کاملا غیر رایگان استفاده شده است.
+از :moneybag: برای مشخص کردن سرویس‌های کاملا غیر رایگان استفاده شده است.
 
-:free::moneybag: برای مشخص کردن سرویس‌هایی که امکان استفاده بصورت رایگان و غیررایگان را دارند استفاده شده است.
+از :free::moneybag: برای مشخص کردن سرویس‌هایی که امکان استفاده بصورت رایگان و غیررایگان را دارند استفاده شده است.
 
-:question: برای مشخص کردن سرویس‌هایی که وضعیت قیمت آنها مشخص نیست استفاده شده است.
+از :question: برای مشخص کردن سرویس‌هایی که وضعیت قیمت آنها مشخص نیست استفاده شده است.
 
 ### فهرست دسته بندی ها:
 - [نیازمند دسته بندی](#نیازمند-دسته-بندی)
 - [بانک و پرداخت آنلاین](#بانک-و-پرداخت-آنلاین)
-- [استعلام بانکی](#استعلام-بانکی)
 - [پردازش متن](#پردازش-متن)
 - [پردازش گفتار](#پردازش-گفتار)
 - [پوش نوتیفیکیشن](#پوش-نوتیفیکیشن)
@@ -30,9 +29,7 @@
 - [حمل و نقل و سفر](#حمل-و-نقل-و-سفر)
 - [قیمت‌ها](#قیمتها)
 - [مالی](#مالی)
-- [قبض](#قبض)
 - [نقشه](#نقشه)
-- [بیمه](#بیمه)
 - [شبکه](#شبکه)
 
 
@@ -74,7 +71,7 @@
 :question: | [API سرویس‌های پاد](http://docs.pod.ir/) | مستندات سرویس‌های متنوع پاد از فناپ سافت
 :question: | [API درگاه رمزارز زنجیر](https://github.com/Zanjir/API-Documentation/) | وب سرویس درگاه پرداخت رمز ارز
 :question: | [API نامبرلند](https://numberland.ir/developers) | سرویس ارائه شماره مجازی
-
+:moneybag: | [API قبضینو](https://ghabzino.com/api) | مجموعه استعلام‌های قبوض مختلف خدماتی از جمله قبض آب و برق و گاز و ... 
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
@@ -95,22 +92,8 @@
  :free::moneybag: | [API حسابیت](https://www.hesabit.com/docs/api/) | امکان ایجاد فاکتور آنلاین و پرداخت اینترنتی فاکتورهای ایجاد شده
  :free: | [API اول‌مارکت](http://avvalmarket.readthedocs.io/fa/latest/) | پرداخت درون برنامه‌ای و خدمات اول مارکت
  :moneybag: | [API پی‌پینگ](https://docs.payping.ir) | پلت‌فرم مالی پی‌پینگ شامل سرویس‌های پرداخت شخصی، آیتم‌های مالی، کدهای تخفیف و سرویس‌های مرتبط با فاکتور آنلاین با قابلیت گزارش گیری
- :moneybag: | [API درگاه باهمتا](https://apieco.ir/api/bahamta-payment/) | درگاه پرداخت باهمتا
- :moneybag: | [API وندار](https://apieco.ir/api/vandar-payment-gate/) | درگاه پرداخت امن وندار
- 
-[:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
-
-## استعلام بانکی
-وضعیت قیمت | لینک | موضوع
- | --- |--- | ---
- :moneybag: | [API تبدیل شماره کارت به حساب](https://apieco.ir/api/api-finnotech-convert-cart-number/) | وب سرویس تبدیل شماره کارت به حساب
- :moneybag: | [API استعلام شبا](https://apieco.ir/api/api-finnotech-shaba-check/) | وب سرویس استعلام شماره شبا
- :moneybag: | [API استعلام کارت](https://apieco.ir/api/api-cart-number-check/) | وب سرویس استعلام شماره کارت
- :moneybag: | [API تبدیل شماره کارت به شبا](https://apieco.ir/api/api-finnotech-convert-card-number-sheba/) | وب سرویس تبدیل شماره کارت به شبا
- :moneybag: | [API تبدیل شماره حساب به شبا](https://apieco.ir/api/api-finnotech-account-number-converter/) | وب سرویس تبدیل شماره حساب به شبا
- :moneybag: | [API لیست کارت های شتابی](https://apieco.ir/api/finnotech-bank-card/) | سرویس استعلام لیست کارت های شتابی
- :moneybag: | [API اطلاعات بانکی](https://apieco.ir/api/finnotech-bank-info/) | سرویس استعلام اطلاعات بانکی
- :moneybag: | [API انطباق کد ملی و شماره حساب](https://apieco.ir/api/finnotech-national-code/) | سرویس انطباق کد ملی و شماره حساب
+ :moneybag: | [API وندار](https://docs.vandar.io/) | درگاه پرداخت امن وندار
+ :moneybag: | [API فینوتک](https://finnotech.ir/doc/) | مجموعه APIهای استعلام بانکی شامل تبدیل شماره کارت به حساب و استعلام شبا و اطلاعات بانکی و ...
  
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
@@ -156,10 +139,8 @@
  | --- |--- | ---
  :free: | [API گاهشمار](http://gahshomar-api.herokuapp.com) | سرویس اپن‌سورس برای کار با زمان و تاریخ با قابلیت تبدیل تاریخ
  :free: | [API اوقات شرعی](http://prayer.aviny.com/PrayerTimes-WebService.aspx) | سرویس جهت دریافت اوقات شرعی شهرهای ایران
-:free: | [API مسلم صلات](https://apieco.ir/api/muslimsalat-api/) | سرویس اوقات شرعی براساس موقعیت مکانی
 :free: | [API اوقات شرعی](http://prayer.aviny.com/PrayerTimes-WebService.aspx) | سرویس جهت دریافت اوقات شرعی شهرهای ایران
 :free: | [API اوقات شرعی](http://prayer.aviny.com/PrayerTimes-WebService.aspx) | سرویس جهت دریافت اوقات شرعی شهرهای ایران
-:free: | [API تبدیل تاریخ جلالی](https://apieco.ir/api/jalali-calender-converter/) | سرویس تبدیل تاریخ به جلالی
 :free: | [API مناسبت ها و تعطیلات ایران](https://holidayapi.ir) | سرویس تعطیلات تقویم رسمی ایران
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
@@ -172,12 +153,12 @@
  :moneybag: | [API فلوکس](https://phelox.ir/document) | درگاه مدیریت و ارائه خدمات حمل، بسته بندی، لجستیک و انبارداری فروشگاه های اینترنتیب
  :moneybag: | [API منحنی](https://planner.monhani.ir/) | API تجاری و غیر رایگان برای برنامه‌ریزی سفر
  :question: | [API سفر۷۲۴](https://safar724.net/post/safar724/api) | وب سرویس و API فروش بلیت اتوبوس که با درخواست ایمیلی ارائه می‌گردد
- :moneybag: | [API های هالیدی](http://hiholiday.ir/webservice) | سرویس پروازهای چارتر و هتل‌های ایران
- :free::moneybag: | [API تیپاکس](https://apieco.ir/api/tipax/) | سرویس حمل بار تیپاکس
- :free::moneybag: | [API پست بار](https://apieco.ir/api/postbar-registration-delivery-orders/) | سرویس پست بار
- :free::moneybag: | [API تاپین](https://apieco.ir/api/tapin-post-company-services/) | سرویس اطلاعات پست
- :free::moneybag: | [API پیرامید](https://apieco.ir/api/pyramid-order/) | سرویس سفارش حمل بار پیرامید
+ :moneybag: | [API های هالیدی](http://hiholiday.ir/webservice) |  سرویس پروازهای چارتر و هتل‌های ایران و بیمه مسافرتی
+ :moneybag: | [API تیپاکس](https://tipaxco.com/etipax) | پلتفرم تیپاکس
+ :moneybag: | [API پست بار](https://postbar.ir/%D9%86%D8%AD%D9%88%D9%87-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-api-%D9%BE%D8%B3%D8%AA-%D8%A8%D8%A7%D8%B1) | سرویس پست بار
+ :free::moneybag: | [API تاپین](https://www.tapin.ir/%D9%88%D8%A8-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%BE%D8%B3%D8%AA/) | سرویس اطلاعات پست
  :free::moneybag: | [API اسنپ باکس](https://api-docs.snapp-box.com/) | سرویس سفارش حمل بار اسنپ باکس 
+
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
 ## قیمت‌ها
@@ -186,9 +167,6 @@
  :moneybag:  | [API قیمت طلا و سکه و ارز](https://marketplace.tgju.org/%d9%88%d8%a8-%d8%b3%d8%b1%d9%88%db%8c%d8%b3%d9%87%d8%a7/) | قیمت طلا و سکه و ارز و بازار سرمایه
  :free: | [API سامانه نظارت ارز - سنا](http://www.tgju.org/sanarate-service) | قیمت ارز سامانه نظارت ارز - سنا
  :moneybag:  | [API نرخ ارز و طلا و سکه](http://nerkh-api.ir/guide.html) | سرویس غیررایگان جهت دریافت نرخ ارز و طلا و سکه
- :moneybag:  | [API نرخ ارز لحظه ای](https://apieco.ir/api/finnotech-realtime-currency/) | سرویس جهت دریافت نرخ ارز به صورت لحظه ای
- :moneybag:  | [API نرخ ارز روزانه](https://apieco.ir/api/finnotech-currency/) | سرویس جهت دریافت نرخ ارز به صورت روزانه
- :moneybag:  | [API نرخ سکه و فلزات گرانبها](https://apieco.ir/api/finnotech-gold-and-currency-markets/) | سرویس جهت دریافت نرخ ارز به صورت روزانه
  :moneybag: | [API ارز سورس آرنا](https://sourcearena.ir/%d9%88%d8%a8-%d8%b3%d8%b1%d9%88%db%8c%d8%b3-api-%d8%a7%d8%b1%d8%b2-%d8%b3%da%a9%d9%87/) |  سرویس نرخ ارز و سکه
  | :free:   | [API رایگان قیمت دلار](https://gist.github.com/polarspetroll/8cb87fab5b16e2e71326f2c52f8771fd) | سرویس رایگان دریافت قیمت دلار آمریکا و کانادا بر اساس اطلاعات سایت tgju.org | 
  :free: :moneybag:  | [API نرخ ارز ](https://exapi.sm4rt.ir/) | تا ۵۰۰ درخواست در روز رایگان است
@@ -205,21 +183,8 @@
  :free::moneybag: | [API حساب‌فا](https://hesabfa.com/help/api) | سرویس حسابداری آنلاین 
  :moneybag: | [API بورس ویو](http://www.bourseview.com/views/api.html) | اطلاعات معاملاتی لحظه‎ای بازار بورس و تاریخچه آن
  :moneybag: | [API بورس سورس آرنا](https://sourcearena.ir/%d9%88%d8%a8-%d8%b3%d8%b1%d9%88%db%8c%d8%b3-api-%d8%a8%d9%88%d8%b1%d8%b3-%d9%81%d8%b1%d8%a7%d8%a8%d9%88%d8%b1%d8%b3/) | اطلاعات بازار بورس و فرابورس و همه نمادها یا یک نماد مشخص
- :moneybag: | [API بورس](https://apieco.ir/api/finnotech-stock-exchange/) | اطلاعات بازار بورس و فرابورس و همه نمادها با دقت بالا
  :moneybag: | [API والکس](https://api-docs.wallex.ir) | API صرافی رمزارز والکس برای معامله کریپتو و دریافت قیمت
-[:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
-## قبض
-وضعیت قیمت | لینک | موضوع
- | --- |--- | ---
- :moneybag: | [API قبض آب](https://apieco.ir/api/ghabzino-water-bill-inquiry/) | وب سرویس استعلام قبض آب
- :moneybag: | [API قبض برق](https://apieco.ir/api/ghabzino-inquiry-electricity-bill/) | وب سرویس استعلام قبض برق
- :moneybag: | [API قبض گاز](https://apieco.ir/api/ghabzino-gas-bill-inquiry/) | وب سرویس استعلام قبض گاز
- :moneybag: | [API قبض تلفن ثابت](https://apieco.ir/api/ghabzino-phone-bill-inquiry-2/) | وب سرویس استعلام قبض تلفن ثابت
- :moneybag: | [API قبض همراه اول](https://apieco.ir/api/ghabzino-mci-mobile-bill/) | وب سرویس استعلام قبض تلفن همراه اول
- :moneybag: | [API قبض ایرانسل](https://apieco.ir/api/ghabzino-irancell-mobile-bill/) | وب سرویس استعلام قبض تلفن همراه ایرانسل
- :moneybag: | [API قبض رایتل](https://apieco.ir/api/ghabzino-rightel-mobile-phone-bill/) | سرویس استعلام قبض تلفن همراه رایتل
- 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
 ## نقشه
@@ -232,16 +197,6 @@
  :free: | [API پارسی مپ](https://www.parsimap.com/api/v2/docs/) | سرویس نقشه ایرانی با قابلیت استفاده عمومی یا اختصاصی
  :free: | [API اطلاعات شهرداری مشهد](http://developer.mashhad.ir/web_directory/100147-%D9%81%D9%87%D8%B1%D8%B3%D8%AA-API.html) | اطلاعات شاخص کیفیت هوا، ظرفیت لحظه‌ای پارکنیگ‌ها و نقشه و اطلاع‌رسانی اتوبوسرانی. برای دریافت اطلاعات نیازمند تماس هستید
 
-[:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
-
-## بیمه
-وضعیت قیمت | لینک | موضوع
- | --- |--- | ---
- :moneybag: | [API بیمه مسافرتی](https://apieco.ir/api/melat-tech-travel-insurance/) | وب سرویس بیمه مسافرتی ملت
- :moneybag: | [API بیمه بدنه خودرو](https://apieco.ir/api/melat-tech-car-body-insurance/) | وب سرویس بیمه بدنه خودرو ملت
- :moneybag: | [API بیمه حوادث انفرادی](https://apieco.ir/api/melat-tech-individual-accident-insurance/) | وب سرویس بیمه حوادث انفرادی ملت
- :moneybag: | [API بیمه شخص ثالث](https://apieco.ir/api/melat-tech-third-party-insurance/) | بیمه شخص ثالث ملت
- 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
 ## شبکه
