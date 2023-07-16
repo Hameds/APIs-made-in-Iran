@@ -75,12 +75,10 @@
 :free: | [API ساخت QR Code](http://qr-code.ir/api/) | سرویس ساخت QR Code با قابلیت سفارشی سازی ابعاد و ایجاد کد برای محتوای وردپرس و بلاگفا و رزبلاگ
 :free::moneybag: | [API آوانک](https://www.avanak.ir/webservice) | سرویس پیام صوتی
 :free: | [API ژاکت](https://zhaket.github.io/guard/) | سرویس تعریف لایسنس برای ابزارهای وردپرسی
-<!-- markdown-link-check-disable-next-line -->
-:free: | [API خدمات شهری تهران](http://api.tehran.ir/) | مجموعه اطلاعات شهری تهران با قابلیت درخواست API
+:free: | [API خدمات شهری تهران](http://api.tehran.ir/) | مجموعه اطلاعات شهری تهران با قابلیت درخواست API <!-- markdown-link-check-disable-line -->
 :free: | [API نوبیتکس](https://apidocs.nobitex.ir/#api) | پلتفرم مبادله بیت‌کوین و سایر رمزارزها
 :moneybag: | [API سرچ لاین](https://www.searchline.ir/Documentation) | سامانه استعلام آنلاین
-<!-- markdown-link-check-disable-next-line -->
-:question: | [API امتا](https://ecsw.ir/developer/) | سامانه یکپارچه احراز مشتریان تجارت الکترونیک
+:question: | [API امتا](https://ecsw.ir/developer/) | سامانه یکپارچه احراز مشتریان تجارت الکترونیک <!-- markdown-link-check-disable-line -->
 :moneybag: | [API پاکت](https://docs.pakat.net/) | سرویس ایمیل مارکتینگ
 :free: | [API داده نمونه فارسی](https://jsonplaceholder.ir/) | سرویسی رایگان برای برگرداندن داده نمونه شامل دسته‌بندی‌هایی نظیر پست وبلاگ، کامنت، کاربر و ... با امکان CRUD 
 :free: | [API اکسیر](https://apidocs.exir.io/) | پلتفورم هوشمند و اتوماتیک مبادله بیت کوین و سایر رمزارزها
@@ -89,18 +87,18 @@
 :question: | [API درگاه رمزارز زنجیر](https://github.com/Zanjir/API-Documentation/) | وب سرویس درگاه پرداخت رمز ارز
 :question: | [API نامبرلند](https://numberland.ir/developers) | سرویس ارائه شماره مجازی
 :moneybag: | [API قبضینو](https://ghabzino.com/api) | مجموعه استعلام‌های قبوض مختلف خدماتی از جمله قبض آب و برق و گاز و ... 
-:question: | [API تامین اجتماعی](https://apiissue.tamin.ir/) | مجموعه راهنماهای پیاده‌سازی API دارو و استعلامات تامین اجتماعی
+:question: | [API تامین اجتماعی](https://apiissue.tamin.ir/) | مجموعه راهنماهای پیاده‌سازی API دارو و استعلامات تامین اجتماعی <!-- markdown-link-check-disable-line -->
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
 ##  بانک و پرداخت آنلاین
 وضعیت قیمت | لینک | موضوع
  | --- |--- | ---
- :free: | [API بانک ملی](https://sadadpsp.ir/fa/content/id/131/درگاه-پرداخت-اینترنتی-(IPG)) | سرویس درگاه پرداخت اینترنتی بانک ملی - سداد
- :free: | [API بانک مسکن](https://www.navaco.org/Home/GeneralEducation) | سرویس درگاه پرداخت اینترنتی بانک مسکن - فن آوا کارت
+ :free: | [API بانک ملی](https://sadadpsp.ir/fa/content/id/131/درگاه-پرداخت-اینترنتی-(IPG)) | سرویس درگاه پرداخت اینترنتی بانک ملی - سداد <!-- markdown-link-check-disable-line -->
+ :free: | [API بانک مسکن](https://www.navaco.org/Home/GeneralEducation) | سرویس درگاه پرداخت اینترنتی بانک مسکن - فن آوا کارت <!-- markdown-link-check-disable-line -->
  :free: | [API بانک پاسارگاد](https://www.pep.co.ir/ipg/) | سرویس درگاه پرداخت اینترنتی بانک پاسارگاد - پرداخت الکترونیک پاسارگاد
  :free: | [API بانک کارآفرین](https://www.irankish.com/page/download_module) | سرویس درگاه پرداخت اینترنتی بانک کارآفرین - کارت اعتباری ایران کیش
- :moneybag: | [API آیدی پی](https://idpay.ir/web-service/) | سرویس درگاه پرداخت شخصی و کارت خوان مجازی
+ :moneybag: | [API آیدی پی](https://idpay.ir/web-service/) | سرویس درگاه پرداخت شخصی و کارت خوان مجازی <!-- markdown-link-check-disable-line -->
  :free::moneybag: | [API زرین پال](https://docs.zarinpal.com/) | سرویس درگاه پرداخت شخصی 
  :free::moneybag: | [API نکس پی ](https://nextpay.ir/plugins/) | سرویس درگاه شبکه پرداخت نکس پی
  :free::moneybag: | [API پی پینگ ](https://docs.payping.ir/) | سرویس درگاه شبکه پرداخت پی پینگ
@@ -192,7 +190,7 @@
 ## مالی
 وضعیت قیمت | لینک | موضوع
  | --- |--- | ---
- :moneybag: | [API بازار بورس تهران](http://db.api.mabnadp.com/) | شامل کلیه اطلاعات مالی، اخبار و معاملات و سایر داده‌های بازار بورس تهران
+ :moneybag: | [API بازار بورس تهران](https://db.api.mabnadp.com/) | شامل کلیه اطلاعات مالی، اخبار و معاملات و سایر داده‌های بازار بورس تهران <!-- markdown-link-check-disable-line -->
  :question: | [API فینوتک](https://apibeta.finnotech.ir/) | خدمات بانکی بر پایه دو دسته سرویس‌های مبتنی بر کارت و سرویس‌های مبتنی بر حساب بانکی
  :question: | [API نوآوران امین](http://www.nadpco.com/#/HelpAPI) | سرویس اطلاعات بازار بورس تهران
  :free::moneybag: | [API حساب‌فا](https://hesabfa.com/help/api) | سرویس حسابداری آنلاین 
@@ -206,7 +204,7 @@
 وضعیت قیمت | لینک | موضوع
  | --- |--- | ---
  :free::moneybag: | [API نشان](https://platform.neshan.org/) | API توسعه نقشه نشان که برای دریافت آن نیاز به ثبت‌نام دارید
- :question: | [API نقشه تهران](http://map.tehran.ir/) | اطلاعات تهران بر روی نقشه، جهت خواست از منوی بیشتر گزینه رابط برنامه‌نویس نقشه را انتخاب کنید
+ :question: | [API نقشه تهران](https://map.tehran.ir/) | اطلاعات تهران بر روی نقشه، جهت خواست از منوی بیشتر گزینه رابط برنامه‌نویس نقشه را انتخاب کنید <!-- markdown-link-check-disable-line -->
 :free::moneybag: | [API سیدار مپ](http://api.cedarmaps.com/docs/) | سرویس نقشه ایرانی با قابلیت‌هایی نظیر تبدیل نقطه جغرافیایی به آدرس و مکان یاب و جانمایی روی نقشه
  :free::moneybag: | [API سایت map.ir](http://corp.map.ir/map-services/api-services/developers/) | یک سرویس دیگر نقشه ایرانی
  :free: | [API پارسی مپ](https://www.parsimap.com/api/v2/docs/) | سرویس نقشه ایرانی با قابلیت استفاده عمومی یا اختصاصی
