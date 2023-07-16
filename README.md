@@ -45,7 +45,7 @@
 :free: | [API فیلم‌ها](http://moviesapi.ir/) | اطلاعات فیلم‌های برتر
 :free::moneybag: | [API بکتوری](https://backtory.com/) | یک ارائه‌دهنده دیگر خدمات Backend as a Service
 :free: | [API بهنویس](http://behnevis.com/api.html) | تبدیل پینگلیش به فارسی 
-:free: | [API حافظ](http://hafez.emrani.net/Api) | لیست غزلیات حافظ با امکان جستجو و فال
+:free::moneybag: | [API حافظ](http://hafez.emrani.net/Api) | لیست غزلیات حافظ با امکان جستجو و فال / 100 درخواست اول رایگان
 :free: | [API لحظه‌نگار](https://app.swaggerhub.com/apis/Parsizabanan/lahzenegar/) | پلتفرم عمومی پخش زنده اینترنتی لحظه‌نگار
 :free::moneybag: | [API سرویس VoD ابر آروان](https://www.arvancloud.ir/api/vod/2.0) | خدمات پلتفرم ویدئوی ابر آروان
 :free::moneybag: | [API سرویس تبلیغات ویدویی ابر آروان](https://www.arvancloud.ir/api/vads/2.0) | خدمات تبلیغات ویدیویی ابر آروان
