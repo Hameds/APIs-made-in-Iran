@@ -75,9 +75,11 @@
 :free: | [API ساخت QR Code](http://qr-code.ir/api/) | سرویس ساخت QR Code با قابلیت سفارشی سازی ابعاد و ایجاد کد برای محتوای وردپرس و بلاگفا و رزبلاگ
 :free::moneybag: | [API آوانک](https://www.avanak.ir/webservice) | سرویس پیام صوتی
 :free: | [API ژاکت](https://zhaket.github.io/guard/) | سرویس تعریف لایسنس برای ابزارهای وردپرسی
+<!-- markdown-link-check-disable-next-line -->
 :free: | [API خدمات شهری تهران](http://api.tehran.ir/) | مجموعه اطلاعات شهری تهران با قابلیت درخواست API
 :free: | [API نوبیتکس](https://apidocs.nobitex.ir/#api) | پلتفرم مبادله بیت‌کوین و سایر رمزارزها
 :moneybag: | [API سرچ لاین](https://www.searchline.ir/Documentation) | سامانه استعلام آنلاین
+<!-- markdown-link-check-disable-next-line -->
 :question: | [API امتا](https://ecsw.ir/developer/) | سامانه یکپارچه احراز مشتریان تجارت الکترونیک
 :moneybag: | [API پاکت](https://docs.pakat.net/) | سرویس ایمیل مارکتینگ
 :free: | [API داده نمونه فارسی](https://jsonplaceholder.ir/) | سرویسی رایگان برای برگرداندن داده نمونه شامل دسته‌بندی‌هایی نظیر پست وبلاگ، کامنت، کاربر و ... با امکان CRUD 
