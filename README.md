@@ -39,7 +39,6 @@
 ## نیازمند دسته بندی
 وضعیت قیمت | لینک | موضوع
  | --- |--- | ---
-:free::moneybag: | [API سرویس واژه یاب](https://www.vajehyab.com/api) |  برای جستجوی معانی کلمات در فرهنگ‌نامه‌های مختلف
 :moneybag: | [API پارسا اسپیس](http://api.parsaspace.com/) | سرویس فایل هاستینگ
 :question: | [API شارژ تلفن همراه](http://ws.toshanet.ir/) | خدمات شارژ تلفن همراه
 :free: | [API فیلم‌ها](http://moviesapi.ir/) | اطلاعات فیلم‌های برتر
@@ -52,9 +51,8 @@
 :free::moneybag: | [API سرویس CDN ابر آروان](https://www.arvancloud.ir/api/cdn/4.0) | خدمات شبکه توزیع محتوی ابر آروان
 :free::moneybag: | [API سرویس IaaS ابر آروان](https://www.arvancloud.ir/api/iaas/1.0) | خدمات رایانش ابری ابر آروان
 :question: | [API آپارات](https://www.aparat.com/api) | اطلاعات کانال‌ها، پروفایل‌ها و ویدئوهای سایت آپارات
-:free: | [API کپچای متنی](http://textcaptcha.ir/api) | سرویس ارائه کپچای متنی فارسی
-:moneybag: | [API رایچت](https://www.raychat.io/api) | پلتفرم گفتگوی آنلاین و ارتباط با مشتریان
-:free::moneybag: | [API دیجی سروی](http://www.digisurvey.net/apihelp) | سرویس ایجاد پرسشنامه و آزمون آنلاین
+:moneybag: | [API رایچت](https://raychat.io/api) | پلتفرم گفتگوی آنلاین و ارتباط با مشتریان
+:free::moneybag: | [API دیجی سروی](https://www.digisurvey.net/apihelp) | سرویس ایجاد پرسشنامه و آزمون آنلاین
 :free::moneybag: | [API آریانا](http://www.farsireader.com/connection/) | سرویس متن به گفتار فارسی
 :free: | [API گنجور - نهایی نشده](https://ganjgah.ir) | گنجور، مخزن اشعار فارسی - [مخزن گیتهاب](https://github.com/ganjoor/GanjoorService) 
 :moneybag: | [API وب‌آلفا](https://www.webalfa.net/kb/api-v2-manual) | API برای ثبت و تمدید و انتقال و به‌روزرسانی و دریافت اطلاعات دامنه‌های ir
@@ -65,7 +63,6 @@
 :free: | [API ساخت QR Code](http://qr-code.ir/api/) | سرویس ساخت QR Code با قابلیت سفارشی سازی ابعاد و ایجاد کد برای محتوای وردپرس و بلاگفا و رزبلاگ
 :free::moneybag: | [API آوانک](https://www.avanak.ir/webservice) | سرویس پیام صوتی
 :free: | [API ژاکت](https://zhaket.github.io/guard/) | سرویس تعریف لایسنس برای ابزارهای وردپرسی
-:moneybag: | [API ابرینو](https://abrino.ir/developers) | سرویس ذخیره‌سازی اطلاعات ابری برای توسعه‌دهندگان موبایل و وب. دریافت API نیازمند تماس است
 :free: | [API خدمات شهری تهران](http://api.tehran.ir/) | مجموعه اطلاعات شهری تهران با قابلیت درخواست API
 :free: | [API نوبیتکس](https://apidocs.nobitex.ir/#api) | پلتفرم مبادله بیت‌کوین و سایر رمزارزها
 :moneybag: | [API سرچ لاین](https://www.searchline.ir/Documentation) | سامانه استعلام آنلاین
@@ -87,7 +84,7 @@
  :free: | [API بانک ملی](https://sadadpsp.ir/fa/content/id/131/درگاه-پرداخت-اینترنتی-(IPG)) | سرویس درگاه پرداخت اینترنتی بانک ملی - سداد
  :free: | [API بانک مسکن](https://www.navaco.org/Home/GeneralEducation) | سرویس درگاه پرداخت اینترنتی بانک مسکن - فن آوا کارت
  :free: | [API بانک پاسارگاد](https://www.pep.co.ir/ipg/) | سرویس درگاه پرداخت اینترنتی بانک پاسارگاد - پرداخت الکترونیک پاسارگاد
- :free: | [API بانک کارآفرین](http://irankish.com/page/download_module) | سرویس درگاه پرداخت اینترنتی بانک کارآفرین - کارت اعتباری ایران کیش
+ :free: | [API بانک کارآفرین](https://www.irankish.com/page/download_module) | سرویس درگاه پرداخت اینترنتی بانک کارآفرین - کارت اعتباری ایران کیش
  :moneybag: | [API آیدی پی](https://idpay.ir/web-service/) | سرویس درگاه پرداخت شخصی و کارت خوان مجازی
  :free::moneybag: | [API زرین پال](https://docs.zarinpal.com/) | سرویس درگاه پرداخت شخصی 
  :moneybag: | [API شبکه پرداخت پِی ](https://docs.pay.ir/gateway/) | سرویس درگاه شبکه پرداخت پِی
@@ -96,7 +93,6 @@
  :moneybag: | [API کافه‌بازار](http://developers.cafebazaar.ir/fa/docs/developer-api-v2-introduction/developer-api-v2-ref-validate/) | برای بررسی وضعیت خرید و اشتراک‌های برنامه منتشر شده در بازار
  :moneybag: | [API پرداخت درون برنامه‌ای بازار](http://developers.cafebazaar.ir/fa/docs/iab/) | برای افزودن قابلیت پرداخت درون‌برنامه‌ای به اپلیکیشن موبایل منتشر شده در بازار
  :free::moneybag: | [API حسابیت](https://www.hesabit.com/docs/api/) | امکان ایجاد فاکتور آنلاین و پرداخت اینترنتی فاکتورهای ایجاد شده
- :moneybag: | [API جیب](https://docs.jeeb.io/fa/) | درگاه پرداخت امن و ناشناس با بیت‌کوین
  :free: | [API اول‌مارکت](http://avvalmarket.readthedocs.io/fa/latest/) | پرداخت درون برنامه‌ای و خدمات اول مارکت
  :moneybag: | [API پی‌پینگ](https://docs.payping.ir) | پلت‌فرم مالی پی‌پینگ شامل سرویس‌های پرداخت شخصی، آیتم‌های مالی، کدهای تخفیف و سرویس‌های مرتبط با فاکتور آنلاین با قابلیت گزارش گیری
  :moneybag: | [API درگاه باهمتا](https://apieco.ir/api/bahamta-payment/) | درگاه پرداخت باهمتا
@@ -123,7 +119,7 @@
  | --- |--- | ---
  :free::moneybag: | [API متن‌کاوی](https://api.text-mining.ir) | مجموعه API برای پردازش متن و متن‌کاوی فارسی [مستندات](https://docs.text-mining.ir)
  :free::moneybag: | [API ترگمان](http://api.targoman.com/) | خدمات ترجمه ماشینی
- :free: | [API دیتاک](https://sakoo.dataak.com/) | دیتاست‌ها و API‌ در حوزه پردازش متن. توضیحات و نمونه کد هر API در خود ابزار درج شده است
+ :free: | [API دیتاک](https://sakoo.ai/) | دیتاست‌ها و API‌ در حوزه پردازش متن. توضیحات و نمونه کد هر API در خود ابزار درج شده است
  :free::moneybag: | [API واکاویک](http://docs.vakavic.com/) | سرویس پردازش متن با قابلیت‌هایی نظیر دسته‌بندی و خلاصه‌کردن متن و نظارت بر کامنت‌ها
  :free: | [API فارس‌نت](http://farsnet.nlp.sbu.ac.ir/Site3/Modules/Public/Default.jsp) | سرویس قابل استفاده در دات‌نت و جاوا برای شبکه واژگانی مورد استفاده در پردازش زبان طبیعی فارسی
  
@@ -176,7 +172,6 @@
  :moneybag: | [API فلوکس](https://phelox.ir/document) | درگاه مدیریت و ارائه خدمات حمل، بسته بندی، لجستیک و انبارداری فروشگاه های اینترنتیب
  :moneybag: | [API منحنی](https://planner.monhani.ir/) | API تجاری و غیر رایگان برای برنامه‌ریزی سفر
  :question: | [API سفر۷۲۴](https://safar724.net/post/safar724/api) | وب سرویس و API فروش بلیت اتوبوس که با درخواست ایمیلی ارائه می‌گردد
- :question: | [API تشریفات فرودگاه مشهد](https://cipmashad.com/fa/cip.webservice.pdf) | سرویس تشریفات CIP فرودگاه بین‌المللی مشهد
  :moneybag: | [API های هالیدی](http://hiholiday.ir/webservice) | سرویس پروازهای چارتر و هتل‌های ایران
  :free::moneybag: | [API تیپاکس](https://apieco.ir/api/tipax/) | سرویس حمل بار تیپاکس
  :free::moneybag: | [API پست بار](https://apieco.ir/api/postbar-registration-delivery-orders/) | سرویس پست بار
@@ -188,9 +183,8 @@
 ## قیمت‌ها
 وضعیت قیمت | لینک | موضوع
  | --- |--- | --- 
- :moneybag:  | [API قیمت طلا و سکه و ارز](http://www.tgju.org/api) | قیمت طلا و سکه و ارز و بازار سرمایه
+ :moneybag:  | [API قیمت طلا و سکه و ارز](https://marketplace.tgju.org/%d9%88%d8%a8-%d8%b3%d8%b1%d9%88%db%8c%d8%b3%d9%87%d8%a7/) | قیمت طلا و سکه و ارز و بازار سرمایه
  :free: | [API سامانه نظارت ارز - سنا](http://www.tgju.org/sanarate-service) | قیمت ارز سامانه نظارت ارز - سنا
- :moneybag:  | [API ارز سانی‌وب](https://api.sunnyweb.ir/) | سرویس غیررایگان جهت دریافت نرخ ارز و طلا و سکه
  :moneybag:  | [API نرخ ارز و طلا و سکه](http://nerkh-api.ir/guide.html) | سرویس غیررایگان جهت دریافت نرخ ارز و طلا و سکه
  :moneybag:  | [API نرخ ارز لحظه ای](https://apieco.ir/api/finnotech-realtime-currency/) | سرویس جهت دریافت نرخ ارز به صورت لحظه ای
  :moneybag:  | [API نرخ ارز روزانه](https://apieco.ir/api/finnotech-currency/) | سرویس جهت دریافت نرخ ارز به صورت روزانه
@@ -233,7 +227,6 @@
  | --- |--- | ---
  :free::moneybag: | [API نشان](https://platform.neshan.org/) | API توسعه نقشه نشان که برای دریافت آن نیاز به ثبت‌نام دارید
  :question: | [API نقشه تهران](http://map.tehran.ir/) | اطلاعات تهران بر روی نقشه، جهت خواست از منوی بیشتر گزینه رابط برنامه‌نویس نقشه را انتخاب کنید
- :question: | [API پارسی جو](http://csi.parsijoo.ir/#?q=page2) | سرویس نقشه وب سایت ایرانی پارسی جو
 :free::moneybag: | [API سیدار مپ](http://api.cedarmaps.com/docs/) | سرویس نقشه ایرانی با قابلیت‌هایی نظیر تبدیل نقطه جغرافیایی به آدرس و مکان یاب و جانمایی روی نقشه
  :free::moneybag: | [API سایت map.ir](http://corp.map.ir/map-services/api-services/developers/) | یک سرویس دیگر نقشه ایرانی
  :free: | [API پارسی مپ](https://www.parsimap.com/api/v2/docs/) | سرویس نقشه ایرانی با قابلیت استفاده عمومی یا اختصاصی
