@@ -88,6 +88,7 @@
 :moneybag: | [API قبضینو](https://ghabzino.com/api) | مجموعه استعلام‌های قبوض مختلف خدماتی از جمله قبض آب و برق و گاز و ... 
 :question: | [API تامین اجتماعی](https://apiissue.tamin.ir/) | مجموعه راهنماهای پیاده‌سازی API دارو و استعلامات تامین اجتماعی <!-- markdown-link-check-disable-line -->
  :free::moneybag: | [API نجوا](https://doc.najva.com/) | سرویس پوش نوتیفیکیشن نجوا
+:moneybag: | [API آنالیکا](https://www.analika.com/api) | سرویس تحلیل رفتار و بازاریابی هوشمند
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
