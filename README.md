@@ -51,7 +51,7 @@
 وضعیت قیمت | لینک | موضوع
  | --- |--- | ---
 :free::moneybag: | [API پذیرش24](https://apicurio-wss.paziresh24.info/sharing/3a0858f5-917f-4e09-8c88-11b77e053466) |  جستجو و نوبت دهی ویزیت حضوری و آنلاین پزشکان ایران
-:free::moneybag: | [API سرویس واژه یاب](https://www.vajehyab.com/api) |  برای جستجوی معانی کلمات در فرهنگ‌نامه‌های مختلف
+:free::moneybag: | [API سرویس واژه یاب](https://api.vajehyab.com/api/documentation) |  برای جستجوی معانی کلمات در فرهنگ‌نامه‌های مختلف
 :moneybag: | [API پارسا اسپیس](http://api.parsaspace.com/) | سرویس فایل هاستینگ
 :question: | [API شارژ تلفن همراه](http://ws.toshanet.ir/) | خدمات شارژ تلفن همراه
 :free: | [API فیلم‌ها](http://moviesapi.ir/) | اطلاعات فیلم‌های برتر
