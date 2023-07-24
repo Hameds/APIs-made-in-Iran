@@ -89,6 +89,7 @@
 :question: | [API تامین اجتماعی](https://apiissue.tamin.ir/) | مجموعه راهنماهای پیاده‌سازی API دارو و استعلامات تامین اجتماعی <!-- markdown-link-check-disable-line -->
  :free::moneybag: | [API نجوا](https://doc.najva.com/) | سرویس پوش نوتیفیکیشن نجوا
 :moneybag: | [API آنالیکا](https://www.analika.com/api) | سرویس تحلیل رفتار و بازاریابی هوشمند
+:free: | [API دیجی‌کالا](https://gist.github.com/sh-sh-dev/542724a6ac72dc04623ecffaa4989620) | توضیحات استفاده از API دیجی‌کالا که در gist ارائه شده
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
