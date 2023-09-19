@@ -92,6 +92,7 @@
  :free::moneybag: | [API نجوا](https://doc.najva.com/) | سرویس پوش نوتیفیکیشن نجوا
 :moneybag: | [API آنالیکا](https://www.analika.com/api) | سرویس تحلیل رفتار و بازاریابی هوشمند
 :free: | [API دیجی‌کالا](https://gist.github.com/sh-sh-dev/542724a6ac72dc04623ecffaa4989620) | توضیحات استفاده از API دیجی‌کالا که در gist ارائه شده
+:free: | [API اطلاعات رایگان برای توسعه‌‌دهندگان اپلیکیشن](https://getfreejson.ir/) | مجموعه API رایگان برای نام استان‌ها و شهرها و کد شهرها و دانشگاه‌ها و آب و هوا و ...
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
