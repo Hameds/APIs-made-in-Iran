@@ -182,6 +182,7 @@
  :moneybag:  | [API نرخ ارز و طلا و سکه](http://nerkh-api.ir/guide.html) | سرویس غیررایگان جهت دریافت نرخ ارز و طلا و سکه
  :moneybag: | [API ارز سورس آرنا](https://sourcearena.ir/%d9%88%d8%a8-%d8%b3%d8%b1%d9%88%db%8c%d8%b3-api-%d8%a7%d8%b1%d8%b2-%d8%b3%da%a9%d9%87/) |  سرویس نرخ ارز و سکه
  | :free:   | [API رایگان قیمت دلار](https://gist.github.com/polarspetroll/8cb87fab5b16e2e71326f2c52f8771fd) | سرویس رایگان دریافت قیمت دلار آمریکا و کانادا بر اساس اطلاعات سایت tgju.org | 
+ | :free:   | [API رایگان قیمت های ارز، طلا، سکه و غیره](https://github.com/margani/pricedb) | آدرس رایگان دریافت قیمت ارز، طلا، سکه و غیره بر اساس اطلاعات سایت tgju.org. مثلا برای قیمت دلار روی [این لینک](https://raw.githubusercontent.com/margani/pricedb/main/tgju/current/price_dollar_rl/latest.json) کلیک کنید. |
  
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
