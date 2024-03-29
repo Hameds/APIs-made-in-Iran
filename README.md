@@ -92,6 +92,7 @@
  :free::moneybag: | [API نجوا](https://doc.najva.com/) | سرویس پوش نوتیفیکیشن نجوا
 :moneybag: | [API آنالیکا](https://www.analika.com/api) | سرویس تحلیل رفتار و بازاریابی هوشمند
 :free: | [API دیجی‌کالا](https://gist.github.com/sh-sh-dev/542724a6ac72dc04623ecffaa4989620) | توضیحات استفاده از API دیجی‌کالا که در gist ارائه شده
+:free: | [API پلاکیاب](https://docs.ineo-team.ir/pelakyab/) | سرویس پلاک یاب (با وارد کردن نمره 2 رقمی و حرف پلاک، استان و شهر مربوط به آن پلاک ماشین را پیدا کنید)
 :free: | [API اطلاعات رایگان برای توسعه‌‌دهندگان اپلیکیشن](https://getfreejson.ir/) | مجموعه API رایگان برای نام استان‌ها و شهرها و کد شهرها و دانشگاه‌ها و آب و هوا و ..
 :moneybag: | [API ابرفانت](https://abrfa.net/api/) | سرویس استعلام قبض همراه اول و ایرانسل و نرخ ارز و کریپتو
 :moneybag: | [API ChatGPT](https://one-api.ir/api-chatgpt) | سرویس ساخت ربات چت جی بی تی  هوش مصنوعی
