@@ -96,6 +96,8 @@
 :free: | [API اطلاعات رایگان برای توسعه‌‌دهندگان اپلیکیشن](https://getfreejson.ir/) | مجموعه API رایگان برای نام استان‌ها و شهرها و کد شهرها و دانشگاه‌ها و آب و هوا و ..
 :moneybag: | [API ابرفانت](https://abrfa.net/api/) | سرویس استعلام قبض همراه اول و ایرانسل و نرخ ارز و کریپتو
 :moneybag: | [API ChatGPT](https://one-api.ir/api-chatgpt) | سرویس ساخت ربات چت جی بی تی  هوش مصنوعی
+:free: | [API قافیه‌یاب هم‌صدا](https://rhyming.ir/posts/rhyme-api) |  جستجوی کلمات هم‌قافیه فارسی
+
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
@@ -154,8 +156,6 @@
 وضعیت قیمت | لینک | موضوع
  | --- |--- | ---
 :free: | [API اوقات شرعی](http://prayer.aviny.com/PrayerTimes-WebService.aspx) | سرویس جهت دریافت اوقات شرعی شهرهای ایران
-:free: | [API اوقات شرعی](http://prayer.aviny.com/PrayerTimes-WebService.aspx) | سرویس جهت دریافت اوقات شرعی شهرهای ایران
-:free: | [API اوقات شرعی](http://prayer.aviny.com/PrayerTimes-WebService.aspx) | سرویس جهت دریافت اوقات شرعی شهرهای ایران
 :free: | [API مناسبت ها و تعطیلات ایران](https://holidayapi.ir) | سرویس تعطیلات تقویم رسمی ایران
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
@@ -184,8 +184,8 @@
  :moneybag:  | [API نرخ ارز و طلا و سکه](http://nerkh-api.ir/guide.html) | سرویس غیررایگان جهت دریافت نرخ ارز و طلا و سکه
  :moneybag: | [API ارز سورس آرنا](https://sourcearena.ir/%d9%88%d8%a8-%d8%b3%d8%b1%d9%88%db%8c%d8%b3-api-%d8%a7%d8%b1%d8%b2-%d8%b3%da%a9%d9%87/) |  سرویس نرخ ارز و سکه
  | :free:   | [API رایگان قیمت دلار](https://gist.github.com/polarspetroll/8cb87fab5b16e2e71326f2c52f8771fd) | سرویس رایگان دریافت قیمت دلار آمریکا و کانادا بر اساس اطلاعات سایت tgju.org | 
- | :free:   | [API رایگان قیمت های ارز، طلا، سکه و غیره](https://github.com/margani/pricedb) | آدرس رایگان دریافت قیمت ارز، طلا، سکه و غیره بر اساس اطلاعات سایت tgju.org. مثلا برای قیمت دلار روی [این لینک](https://raw.githubusercontent.com/margani/pricedb/main/tgju/current/price_dollar_rl/latest.json) کلیک کنید. |
- 
+ | :free:   | [API رایگان قیمت های ارز، طلا، سکه و غیره](https://prices.readme.io) | سرویس رایگان دریافت قیمت ارز، طلا، سکه و غیره. مثلا برای قیمت دلار روی [این لینک](https://api.priceto.day/v1/latest/irr/usd) کلیک کنید. |
+
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
 ## مالی
