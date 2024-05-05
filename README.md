@@ -198,6 +198,7 @@
  :moneybag: | [API بورس ویو](http://www.bourseview.com/views/api.html) | اطلاعات معاملاتی لحظه‎ای بازار بورس و تاریخچه آن
  :moneybag: | [API بورس سورس آرنا](https://sourcearena.ir/%d9%88%d8%a8-%d8%b3%d8%b1%d9%88%db%8c%d8%b3-api-%d8%a8%d9%88%d8%b1%d8%b3-%d9%81%d8%b1%d8%a7%d8%a8%d9%88%d8%b1%d8%b3/) | اطلاعات بازار بورس و فرابورس و همه نمادها یا یک نماد مشخص
  :moneybag: | [API والکس](https://api-docs.wallex.ir) | API صرافی رمزارز والکس برای معامله کریپتو و دریافت قیمت
+:free: | [API بورس](https://brsapi.ir/) | وب سرویس رایگان برای بورس تهران. نیازمند درخواست API Key
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
