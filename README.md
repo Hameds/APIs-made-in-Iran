@@ -71,7 +71,6 @@
 :moneybag: | [API وب‌آلفا](https://www.webalfa.net/kb/api-v2-manual) | API برای ثبت و تمدید و انتقال و به‌روزرسانی و دریافت اطلاعات دامنه‌های ir
 :question: | [API ذرت](http://filecorn.api-docs.io/) | سرویس فضای ابری اختصاصی
 :moneybag: | [API سرویس OCR](https://www.iranocr.ir/Home/%D9%88%D8%A8_%D8%B3%D8%B1%D9%88%DB%8C%D8%B3) | ارائه‌دهنده خدمات تبدیل دست‌خط، عکس و pdf به متن با قابلیت تشخیص فارسی
-:free::moneybag: | [API نیواد](https://nivad.io/docs/home/) | نیواد ارائه‌دهنده Backend as a Service برای ساخت بازی، اپلیکیشن و وب‌سایت‌ است
 :moneybag: | [API مستر۲اپ](http://mr2app.com/blog/app-build-api/) | سرویس ساخت اپلیکیشن بر اساس محتوای سایت
 :free: | [API ساخت QR Code](http://qr-code.ir/api/) | سرویس ساخت QR Code با قابلیت سفارشی سازی ابعاد و ایجاد کد برای محتوای وردپرس و بلاگفا و رزبلاگ
 :free::moneybag: | [API آوانک](https://www.avanak.ir/webservice) | سرویس پیام صوتی
@@ -81,10 +80,9 @@
 :moneybag: | [API سرچ لاین](https://www.searchline.ir/Documentation) | سامانه استعلام آنلاین
 :question: | [API امتا](https://ecsw.ir/developer/) | سامانه یکپارچه احراز مشتریان تجارت الکترونیک <!-- markdown-link-check-disable-line -->
 :moneybag: | [API پاکت](https://docs.pakat.net/) | سرویس ایمیل مارکتینگ
-:free: | [API داده نمونه فارسی](https://jsonplaceholder.ir/) | سرویسی رایگان برای برگرداندن داده نمونه شامل دسته‌بندی‌هایی نظیر پست وبلاگ، کامنت، کاربر و ... با امکان CRUD 
 :free: | [API اکسیر](https://apidocs.exir.io/) | پلتفورم هوشمند و اتوماتیک مبادله بیت کوین و سایر رمزارزها
 :moneybag: | [API قیمت خودرو سورس آرنا](https://sourcearena.ir/%d9%88%d8%a8-%d8%b3%d8%b1%d9%88%db%8c%d8%b3-api-%d9%82%db%8c%d9%85%d8%aa-%d8%ae%d9%88%d8%af%d8%b1%d9%88/) | قیمت روزانه خودروها
-:question: | [API سرویس‌های پاد](http://docs.pod.ir/) | مستندات سرویس‌های متنوع پاد از فناپ سافت
+:question: | [API سرویس‌های پاد](http://docs.pod.ir/) | مستندات سرویس‌های متنوع پاد از فناپ سافت <!-- markdown-link-check-disable-line -->
 :question: | [API درگاه رمزارز زنجیر](https://github.com/Zanjir/API-Documentation/) | وب سرویس درگاه پرداخت رمز ارز
 :question: | [API نامبرلند](https://numberland.ir/developers) | سرویس ارائه شماره مجازی
 :moneybag: | [API قبضینو](https://ghabzino.com/api) | مجموعه استعلام‌های قبوض مختلف خدماتی از جمله قبض آب و برق و گاز و ... 
@@ -126,9 +124,7 @@
 وضعیت قیمت | لینک | موضوع
  | --- |--- | ---
  :free::moneybag: | [API متن‌کاوی](https://api.text-mining.ir) | مجموعه API برای پردازش متن و متن‌کاوی فارسی [مستندات](https://docs.text-mining.ir)
- :free::moneybag: | [API ترگمان](http://api.targoman.com/) | خدمات ترجمه ماشینی
- :free: | [API دیتاک](https://sakoo.ai/) | دیتاست‌ها و API‌ در حوزه پردازش متن. توضیحات و نمونه کد هر API در خود ابزار درج شده است
- :free::moneybag: | [API واکاویک](http://docs.vakavic.com/) | سرویس پردازش متن با قابلیت‌هایی نظیر دسته‌بندی و خلاصه‌کردن متن و نظارت بر کامنت‌ها
+ :free::moneybag: | [API ترگمان](http://api.targoman.com/) | خدمات ترجمه ماشینی **عدم ارائه سرویس به صورت موقت به دلیل لغو خدمات زیرساخت پردازشی از سوی وزارت ارتباطات**
  :free: | [API فارس‌نت](http://farsnet.nlp.sbu.ac.ir/Site3/Modules/Public/Default.jsp) | سرویس قابل استفاده در دات‌نت و جاوا برای شبکه واژگانی مورد استفاده در پردازش زبان طبیعی فارسی
  
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
@@ -155,7 +151,6 @@
 وضعیت قیمت | لینک | موضوع
  | --- |--- | ---
 :free: | [API اوقات شرعی](http://prayer.aviny.com/PrayerTimes-WebService.aspx) | سرویس جهت دریافت اوقات شرعی شهرهای ایران
-:free: | [API مناسبت ها و تعطیلات ایران](https://holidayapi.ir) | سرویس تعطیلات تقویم رسمی ایران
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
@@ -164,7 +159,6 @@
  | --- |--- | ---
  :moneybag: | [API پست بار](https://postbar.ir/%D9%86%D8%AD%D9%88%D9%87-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-api-%D9%BE%D8%B3%D8%AA-%D8%A8%D8%A7%D8%B1) | سرویس حمل و نقل بار پستی
  :free: | [API الوپیک](https://alopeyk.com/api) | سرویس حمل و نقل با پیک
- :moneybag: | [API فلوکس](https://phelox.ir/document) | درگاه مدیریت و ارائه خدمات حمل، بسته بندی، لجستیک و انبارداری فروشگاه های اینترنتیب
  :moneybag: | [API منحنی](https://planner.monhani.ir/) | API تجاری و غیر رایگان برای برنامه‌ریزی سفر
  :question: | [API سفر۷۲۴](https://safar724.com/post/safar724/api) | وب سرویس و API فروش بلیت اتوبوس که با درخواست ایمیلی ارائه می‌گردد
  :moneybag: | [API های هالیدی](http://hiholiday.ir/webservice) |  سرویس پروازهای چارتر و هتل‌های ایران و بیمه مسافرتی
@@ -178,7 +172,7 @@
 ## قیمت‌ها
 وضعیت قیمت | لینک | موضوع
  | --- |--- | --- 
- :moneybag:  | [API قیمت طلا و سکه و ارز](https://marketplace.tgju.org/%d9%88%d8%a8-%d8%b3%d8%b1%d9%88%db%8c%d8%b3%d9%87%d8%a7/) | قیمت طلا و سکه و ارز و بازار سرمایه
+ :moneybag:  | [API قیمت طلا و سکه و ارز](https://marketplace.tgju.org/%d9%88%d8%a8-%d8%b3%d8%b1%d9%88%db%8c%d8%b3%d9%87%d8%a7/) | قیمت طلا و سکه و ارز و بازار سرمایه <!-- markdown-link-check-disable-line -->
  :free: | [API سامانه نظارت ارز - سنا](http://www.tgju.org/sanarate-service) | قیمت ارز سامانه نظارت ارز - سنا
  :moneybag:  | [API نرخ ارز و طلا و سکه](http://nerkh-api.ir/guide.html) | سرویس غیررایگان جهت دریافت نرخ ارز و طلا و سکه
  :moneybag: | [API ارز سورس آرنا](https://sourcearena.ir/%d9%88%d8%a8-%d8%b3%d8%b1%d9%88%db%8c%d8%b3-api-%d8%a7%d8%b1%d8%b2-%d8%b3%da%a9%d9%87/) |  سرویس نرخ ارز و سکه
@@ -192,7 +186,7 @@
  | --- |--- | ---
  :moneybag: | [API بازار بورس تهران](https://db.api.mabnadp.com/) | شامل کلیه اطلاعات مالی، اخبار و معاملات و سایر داده‌های بازار بورس تهران <!-- markdown-link-check-disable-line -->
  :question: | [API فینوتک](https://apibeta.finnotech.ir/) | خدمات بانکی بر پایه دو دسته سرویس‌های مبتنی بر کارت و سرویس‌های مبتنی بر حساب بانکی
- :question: | [API نوآوران امین](http://www.nadpco.com/#/HelpAPI) | سرویس اطلاعات بازار بورس تهران
+ :question: | [API نوآوران امین](http://www.nadpco.com/#/HelpAPI) | سرویس اطلاعات بازار بورس تهران <!-- markdown-link-check-disable-line -->
  :free::moneybag: | [API حساب‌فا](https://hesabfa.com/help/api) | سرویس حسابداری آنلاین 
  :moneybag: | [API بورس ویو](http://www.bourseview.com/views/api.html) | اطلاعات معاملاتی لحظه‎ای بازار بورس و تاریخچه آن
  :moneybag: | [API بورس سورس آرنا](https://sourcearena.ir/%d9%88%d8%a8-%d8%b3%d8%b1%d9%88%db%8c%d8%b3-api-%d8%a8%d9%88%d8%b1%d8%b3-%d9%81%d8%b1%d8%a7%d8%a8%d9%88%d8%b1%d8%b3/) | اطلاعات بازار بورس و فرابورس و همه نمادها یا یک نماد مشخص
