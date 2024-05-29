@@ -81,7 +81,7 @@
 :question: | [API امتا](https://ecsw.ir/developer/) | سامانه یکپارچه احراز مشتریان تجارت الکترونیک <!-- markdown-link-check-disable-line -->
 :moneybag: | [API پاکت](https://docs.pakat.net/) | سرویس ایمیل مارکتینگ
 :free: | [API اکسیر](https://apidocs.exir.io/) | پلتفورم هوشمند و اتوماتیک مبادله بیت کوین و سایر رمزارزها
-:moneybag: | [API قیمت خودرو سورس آرنا](https://sourcearena.ir/%d9%88%d8%a8-%d8%b3%d8%b1%d9%88%db%8c%d8%b3-api-%d9%82%db%8c%d9%85%d8%aa-%d8%ae%d9%88%d8%af%d8%b1%d9%88/) | قیمت روزانه خودروها
+:moneybag: | [API قیمت خودرو سورس آرنا](https://sourcearena.ir/%d9%88%d8%a8-%d8%b3%d8%b1%d9%88%db%8c%d8%b3-api-%d9%82%db%8c%d9%85%d8%aa-%d8%ae%d9%88%d8%af%d8%b1%d9%88/) | قیمت روزانه خودروها <!-- markdown-link-check-disable-line -->
 :question: | [API سرویس‌های پاد](http://docs.pod.ir/) | مستندات سرویس‌های متنوع پاد از فناپ سافت <!-- markdown-link-check-disable-line -->
 :question: | [API درگاه رمزارز زنجیر](https://github.com/Zanjir/API-Documentation/) | وب سرویس درگاه پرداخت رمز ارز
 :question: | [API نامبرلند](https://numberland.ir/developers) | سرویس ارائه شماره مجازی
@@ -124,7 +124,7 @@
 وضعیت قیمت | لینک | موضوع
  | --- |--- | ---
  :free::moneybag: | [API متن‌کاوی](https://api.text-mining.ir) | مجموعه API برای پردازش متن و متن‌کاوی فارسی [مستندات](https://docs.text-mining.ir)
- :free::moneybag: | [API ترگمان](http://api.targoman.com/) | خدمات ترجمه ماشینی **عدم ارائه سرویس به صورت موقت به دلیل لغو خدمات زیرساخت پردازشی از سوی وزارت ارتباطات**
+ :free::moneybag: | [API ترگمان](http://api.targoman.com/) | خدمات ترجمه ماشینی **عدم ارائه سرویس به صورت موقت به دلیل لغو خدمات زیرساخت پردازشی از سوی وزارت ارتباطات** <!-- markdown-link-check-disable-line -->
  :free: | [API فارس‌نت](http://farsnet.nlp.sbu.ac.ir/Site3/Modules/Public/Default.jsp) | سرویس قابل استفاده در دات‌نت و جاوا برای شبکه واژگانی مورد استفاده در پردازش زبان طبیعی فارسی
  
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
@@ -175,7 +175,7 @@
  :moneybag:  | [API قیمت طلا و سکه و ارز](https://marketplace.tgju.org/%d9%88%d8%a8-%d8%b3%d8%b1%d9%88%db%8c%d8%b3%d9%87%d8%a7/) | قیمت طلا و سکه و ارز و بازار سرمایه <!-- markdown-link-check-disable-line -->
  :free: | [API سامانه نظارت ارز - سنا](http://www.tgju.org/sanarate-service) | قیمت ارز سامانه نظارت ارز - سنا
  :moneybag:  | [API نرخ ارز و طلا و سکه](http://nerkh-api.ir/guide.html) | سرویس غیررایگان جهت دریافت نرخ ارز و طلا و سکه
- :moneybag: | [API ارز سورس آرنا](https://sourcearena.ir/%d9%88%d8%a8-%d8%b3%d8%b1%d9%88%db%8c%d8%b3-api-%d8%a7%d8%b1%d8%b2-%d8%b3%da%a9%d9%87/) |  سرویس نرخ ارز و سکه
+ :moneybag: | [API ارز سورس آرنا](https://sourcearena.ir/%d9%88%d8%a8-%d8%b3%d8%b1%d9%88%db%8c%d8%b3-api-%d8%a7%d8%b1%d8%b2-%d8%b3%da%a9%d9%87/) |  سرویس نرخ ارز و سکه <!-- markdown-link-check-disable-line -->
  | :free:   | [API رایگان قیمت دلار](https://gist.github.com/polarspetroll/8cb87fab5b16e2e71326f2c52f8771fd) | سرویس رایگان دریافت قیمت دلار آمریکا و کانادا بر اساس اطلاعات سایت tgju.org | 
  | :free:   | [API رایگان قیمت های ارز، طلا، سکه و غیره](https://prices.readme.io) | سرویس رایگان دریافت قیمت ارز، طلا، سکه و غیره. مثلا برای قیمت دلار روی [این لینک](https://api.priceto.day/v1/latest/irr/usd) کلیک کنید. |
 
@@ -189,7 +189,7 @@
  :question: | [API نوآوران امین](http://www.nadpco.com/#/HelpAPI) | سرویس اطلاعات بازار بورس تهران <!-- markdown-link-check-disable-line -->
  :free::moneybag: | [API حساب‌فا](https://hesabfa.com/help/api) | سرویس حسابداری آنلاین 
  :moneybag: | [API بورس ویو](http://www.bourseview.com/views/api.html) | اطلاعات معاملاتی لحظه‎ای بازار بورس و تاریخچه آن
- :moneybag: | [API بورس سورس آرنا](https://sourcearena.ir/%d9%88%d8%a8-%d8%b3%d8%b1%d9%88%db%8c%d8%b3-api-%d8%a8%d9%88%d8%b1%d8%b3-%d9%81%d8%b1%d8%a7%d8%a8%d9%88%d8%b1%d8%b3/) | اطلاعات بازار بورس و فرابورس و همه نمادها یا یک نماد مشخص
+ :moneybag: | [API بورس سورس آرنا](https://sourcearena.ir/%d9%88%d8%a8-%d8%b3%d8%b1%d9%88%db%8c%d8%b3-api-%d8%a8%d9%88%d8%b1%d8%b3-%d9%81%d8%b1%d8%a7%d8%a8%d9%88%d8%b1%d8%b3/) | اطلاعات بازار بورس و فرابورس و همه نمادها یا یک نماد مشخص <!-- markdown-link-check-disable-line -->
  :moneybag: | [API والکس](https://api-docs.wallex.ir) | API صرافی رمزارز والکس برای معامله کریپتو و دریافت قیمت
 :free: | [API بورس](https://brsapi.ir/) | وب سرویس رایگان برای بورس تهران. نیازمند درخواست API Key
 
