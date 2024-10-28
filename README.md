@@ -164,6 +164,7 @@
 ## قیمت‌ها
 وضعیت قیمت | لینک | موضوع
  | --- |--- | --- 
+ :moneybag:  | [api قیمت طلا و دلار](https://baha24.com/) | قیمت دلار و طلا - قیمت سکه و انس جهانی [بها۲۴](https://baha24.com)
  :moneybag:  | [API قیمت طلا و سکه و ارز](https://marketplace.tgju.org/%d9%88%d8%a8-%d8%b3%d8%b1%d9%88%db%8c%d8%b3%d9%87%d8%a7/) | قیمت طلا و سکه و ارز و بازار سرمایه <!-- markdown-link-check-disable-line -->
  :free: | [API سامانه نظارت ارز - سنا](http://www.tgju.org/sanarate-service) | قیمت ارز سامانه نظارت ارز - سنا
  :moneybag:  | [API نرخ ارز و طلا و سکه](http://nerkh-api.ir/guide.html) | سرویس غیررایگان جهت دریافت نرخ ارز و طلا و سکه
