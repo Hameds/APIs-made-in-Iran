@@ -171,6 +171,7 @@
  :moneybag: | [API ارز سورس آرنا](https://sourcearena.ir/%d9%88%d8%a8-%d8%b3%d8%b1%d9%88%db%8c%d8%b3-api-%d8%a7%d8%b1%d8%b2-%d8%b3%da%a9%d9%87/) |  سرویس نرخ ارز و سکه <!-- markdown-link-check-disable-line -->
  | :free:   | [API رایگان قیمت دلار](https://gist.github.com/polarspetroll/8cb87fab5b16e2e71326f2c52f8771fd) | سرویس رایگان دریافت قیمت دلار آمریکا و کانادا بر اساس اطلاعات سایت tgju.org | 
  | :free:   | [API رایگان قیمت های ارز، طلا، سکه و غیره](https://prices.readme.io) | سرویس رایگان دریافت قیمت ارز، طلا، سکه و غیره. مثلا برای قیمت دلار روی [این لینک](https://api.priceto.day/v1/latest/irr/usd) کلیک کنید. |
+ | :free:   | [API رایگان قیمت طلا و سکه و دلار](https://brsapi.ir/free-api-gold-currency-webservice/) | بدون نیاز به ثبت‌نام و API Key | 
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
