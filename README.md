@@ -87,6 +87,7 @@
 :moneybag: | [API ابرفانت](https://abrfa.net/api/) | سرویس استعلام قبض همراه اول و ایرانسل و نرخ ارز و کریپتو
 :moneybag: | [API ChatGPT](https://one-api.ir/api-chatgpt) | سرویس ساخت ربات چت جی بی تی  هوش مصنوعی
 :free: | [API قافیه‌یاب هم‌صدا](https://rhyming.ir/posts/rhyme-api) |  جستجوی کلمات هم‌قافیه فارسی
+:free: | [API فال حافظ](https://arminamirinasab.github.io/hafez/) |  فال‌بینی حافظ و 200 غزل از حافظ شیرازی 
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
