@@ -174,6 +174,7 @@
  | :free:   | [API رایگان قیمت دلار](https://gist.github.com/polarspetroll/8cb87fab5b16e2e71326f2c52f8771fd) | سرویس رایگان دریافت قیمت دلار آمریکا و کانادا بر اساس اطلاعات سایت tgju.org | 
  | :free:   | [API رایگان قیمت های ارز، طلا، سکه و غیره](https://prices.readme.io) | سرویس رایگان دریافت قیمت ارز، طلا، سکه و غیره. مثلا برای قیمت دلار روی [این لینک](https://api.priceto.day/v1/latest/irr/usd) کلیک کنید. |
  | :free:   | [API رایگان قیمت طلا و سکه و دلار](https://brsapi.ir/free-api-gold-currency-webservice/) | بدون نیاز به ثبت‌نام و API Key | 
+ | :free:   | [API نرخ](https://nerkh.io) | سرویس آنلاین لحظه‌ای نرخ ارز، طلا، سکه و ارز دیجیتال به صورت رایگان
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
