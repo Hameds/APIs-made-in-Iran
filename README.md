@@ -208,7 +208,7 @@
 ## خدمات ابری و میزبانی وب و شبکه
 وضعیت قیمت | لینک | موضوع
  | --- |--- | ---
- :free: | [API دی‌ان‌اس‌ لب](https://dnslab.link/api) | وب سرویس اطلاعات آی پی ، بررسی پینگ ، بررسی باز بودن Port یک آی پی یا آدرس عمومی ، پرس و جو رکورد های DNS از قیبل (A,NS,CNAME,MX,SOA,TXT)
+ :free: | [API دی‌ان‌اس‌ لب](https://dnslab.link/api) | وب سرویس اطلاعات آی پی ، بررسی پینگ ، بررسی باز بودن Port یک آی پی یا آدرس عمومی ، پرس و جو رکورد های DNS از قبیل (A,NS,CNAME,MX,SOA,TXT)
  :free: | [API بدست آوردن آی‌پی عمومی](https://ip.dnslab.link) | بدست آوردن IP عمومی و همچنین تبدیل آن به HEX و Json
  :free::moneybag: | [API سرویس VoD ابر آروان](https://www.arvancloud.ir/api/vod/2.0) | خدمات پلتفرم ویدئوی ابر آروان
  :free::moneybag: | [API سرویس تبلیغات ویدویی ابر آروان](https://www.arvancloud.ir/api/vads/2.0) | خدمات تبلیغات ویدیویی ابر آروان
