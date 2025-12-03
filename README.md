@@ -224,6 +224,7 @@
  | :free:   | [API رایگان قیمت طلا و سکه و دلار](https://brsapi.ir/free-api-gold-currency-webservice/) | بدون نیاز به ثبت‌نام و API Key | 
  | :free:   | [API نرخ](https://nerkh.io) | سرویس آنلاین لحظه‌ای نرخ ارز، طلا، سکه و ارز دیجیتال به صورت رایگان
 :moneybag: | [API قیمت خودرو سورس آرنا](https://sourcearena.ir/%d9%88%d8%a8-%d8%b3%d8%b1%d9%88%db%8c%d8%b3-api-%d9%82%db%8c%d9%85%d8%aa-%d8%ae%d9%88%d8%af%d8%b1%d9%88/) | قیمت روزانه خودروها <!-- markdown-link-check-disable-line -->
+ :free: | [API رایگان قیمت فلزات گران‌بها](https://brsapi.ir/free-api-commodity-webservice/) | قیمت لحظه‌ای فلزات گران‌بها و انرژی
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
