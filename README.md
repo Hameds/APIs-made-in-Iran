@@ -167,6 +167,7 @@
  :moneybag: | [API پست بار](https://postbar.ir/%D9%86%D8%AD%D9%88%D9%87-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-api-%D9%BE%D8%B3%D8%AA-%D8%A8%D8%A7%D8%B1) | سرویس پست بار
  :free::moneybag: | [API تاپین](https://www.tapin.ir/%D9%88%D8%A8-%D8%B3%D8%B1%D9%88%DB%8C%D8%B3-%D9%BE%D8%B3%D8%AA/) | سرویس اطلاعات پست
  :free::moneybag: | [API اسنپ باکس](https://api-docs.snapp-box.com/) | سرویس سفارش حمل بار اسنپ باکس 
+ :question: | [API فروش بلیت اتوبوس](https://www.payaneha.com/pages/73/وب-سرویس-فروش-بلیط-اتوبوس) | سرویس فروش بلیت اتوبوس نیازمند عقد قرارداد NDA
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
