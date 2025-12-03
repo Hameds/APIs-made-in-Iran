@@ -141,13 +141,14 @@
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
 ## توسعه
-وضعیت قیمت | لینک | موضوع
- | --- |--- | ---
-:free::moneybag: | [API بکتوری](https://backtory.com/) | یک ارائه‌دهنده دیگر خدمات Backend as a Service
-:moneybag: | [API مستر۲اپ](http://mr2app.com/blog/app-build-api/) | سرویس ساخت اپلیکیشن بر اساس محتوای سایت
-:free: | [API ساخت QR Code](http://qr-code.ir/api/) | سرویس ساخت QR Code با قابلیت سفارشی سازی ابعاد و ایجاد کد برای محتوای وردپرس و بلاگفا و رزبلاگ
-:free: | [API ژاکت](https://zhaket.github.io/guard/) | سرویس تعریف لایسنس برای ابزارهای وردپرسی
-:moneybag: | [API ChatGPT](https://one-api.ir/api-chatgpt) | سرویس ساخت ربات ChatGPT هوش مصنوعی
+وضعیت قیمت | لینک                                                     | موضوع
+ | --- |----------------------------------------------------------| ---
+:free::moneybag: | [API بکتوری](https://backtory.com/)                      | یک ارائه‌دهنده دیگر خدمات Backend as a Service
+:moneybag: | [API مستر۲اپ](http://mr2app.com/blog/app-build-api/)     | سرویس ساخت اپلیکیشن بر اساس محتوای سایت
+:free: | [API ساخت QR Code](http://qr-code.ir/api/)               | سرویس ساخت QR Code با قابلیت سفارشی سازی ابعاد و ایجاد کد برای محتوای وردپرس و بلاگفا و رزبلاگ
+:free: | [API ژاکت](https://zhaket.github.io/guard/)              | سرویس تعریف لایسنس برای ابزارهای وردپرسی
+:moneybag: | [API ChatGPT](https://one-api.ir/api-chatgpt)            | سرویس ساخت ربات ChatGPT هوش مصنوعی
+:question: | [API آرکپچا](https://docs.arcaptcha.co/fa/installation/) | سرویس محافظت در برابر بات‌ها و هرزنامه‌ها و آسیب‌های خودکار 
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
