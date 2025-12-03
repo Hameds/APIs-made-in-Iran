@@ -58,20 +58,16 @@
 :question: | [API شارژ تلفن همراه](http://ws.toshanet.ir/) | خدمات شارژ تلفن همراه
 :free::moneybag: | [API بکتوری](https://backtory.com/) | یک ارائه‌دهنده دیگر خدمات Backend as a Service
 :free: | [API بهنویس](http://behnevis.com/api.html) | تبدیل پینگلیش به فارسی 
-:free::moneybag: | [API آریانا](http://www.farsireader.com/connection/) | سرویس متن به گفتار فارسی
 :moneybag: | [API سرویس OCR](https://www.iranocr.ir/Home/%D9%88%D8%A8_%D8%B3%D8%B1%D9%88%DB%8C%D8%B3) | ارائه‌دهنده خدمات تبدیل دست‌خط، عکس و pdf به متن با قابلیت تشخیص فارسی
 :moneybag: | [API مستر۲اپ](http://mr2app.com/blog/app-build-api/) | سرویس ساخت اپلیکیشن بر اساس محتوای سایت
 :free: | [API ساخت QR Code](http://qr-code.ir/api/) | سرویس ساخت QR Code با قابلیت سفارشی سازی ابعاد و ایجاد کد برای محتوای وردپرس و بلاگفا و رزبلاگ
 :free: | [API ژاکت](https://zhaket.github.io/guard/) | سرویس تعریف لایسنس برای ابزارهای وردپرسی
 :moneybag: | [API سرچ لاین](https://www.searchline.ir/Documentation) | سامانه استعلام آنلاین
-:moneybag: | [API قیمت خودرو سورس آرنا](https://sourcearena.ir/%d9%88%d8%a8-%d8%b3%d8%b1%d9%88%db%8c%d8%b3-api-%d9%82%db%8c%d9%85%d8%aa-%d8%ae%d9%88%d8%af%d8%b1%d9%88/) | قیمت روزانه خودروها <!-- markdown-link-check-disable-line -->
 :question: | [API سرویس‌های پاد](http://docs.pod.ir/) | مستندات سرویس‌های متنوع پاد از فناپ سافت <!-- markdown-link-check-disable-line -->
 :question: | [API نامبرلند](https://numberland.ir/developers) | سرویس ارائه شماره مجازی
 :moneybag: | [API قبضینو](https://ghabzino.com/api) | مجموعه استعلام‌های قبوض مختلف خدماتی از جمله قبض آب و برق و گاز و ...
-:moneybag: | [API آنالیکا](https://www.analika.com/api) | سرویس تحلیل رفتار و بازاریابی هوشمند
 :free: | [API دیجی‌کالا](https://gist.github.com/sh-sh-dev/542724a6ac72dc04623ecffaa4989620) | توضیحات استفاده از API دیجی‌کالا که در gist ارائه شده
 :free: | [API پلاکیاب](https://docs.ineo-team.ir/pelakyab/) | سرویس پلاک یاب (با وارد کردن نمره 2 رقمی و حرف پلاک، استان و شهر مربوط به آن پلاک ماشین را پیدا کنید)
-:moneybag: | [API ابرفانت](https://abrfa.net/api/) | سرویس استعلام قبض همراه اول و ایرانسل و نرخ ارز و کریپتو
 :moneybag: | [API ChatGPT](https://one-api.ir/api-chatgpt) | سرویس ساخت ربات چت جی بی تی  هوش مصنوعی
 
 
@@ -85,6 +81,7 @@
 :free::moneybag: | [API آوانک](https://www.avanak.ir/webservice) | سرویس پیام صوتی
 :moneybag: | [API پاکت](https://docs.pakat.net/) | سرویس ایمیل مارکتینگ
 :free::moneybag: | [API نجوا](https://doc.najva.com/) | سرویس پوش نوتیفیکیشن نجوا
+:moneybag: | [API آنالیکا](https://www.analika.com/api) | سرویس تحلیل رفتار و بازاریابی هوشمند
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
@@ -117,7 +114,8 @@
  :free::moneybag: | [API متن‌کاوی](https://api.text-mining.ir) | مجموعه API برای پردازش متن و متن‌کاوی فارسی [مستندات](https://docs.text-mining.ir)
  :free::moneybag: | [API ترگمان](http://api.targoman.com/) | خدمات ترجمه ماشینی **عدم ارائه سرویس به صورت موقت به دلیل لغو خدمات زیرساخت پردازشی از سوی وزارت ارتباطات** <!-- markdown-link-check-disable-line -->
  :free: | [API فارس‌نت](http://farsnet.nlp.sbu.ac.ir/Site3/Modules/Public/Default.jsp) | سرویس قابل استفاده در دات‌نت و جاوا برای شبکه واژگانی مورد استفاده در پردازش زبان طبیعی فارسی
- 
+ :free::moneybag: | [API آریانا](http://www.farsireader.com/connection/) | سرویس متن به گفتار فارسی
+
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
 ## پردازش گفتار
@@ -224,6 +222,7 @@
  | :free:   | [API رایگان قیمت های ارز، طلا، سکه و غیره](https://prices.readme.io) | سرویس رایگان دریافت قیمت ارز، طلا، سکه و غیره. مثلا برای قیمت دلار روی [این لینک](https://api.priceto.day/v1/latest/irr/usd) کلیک کنید. |
  | :free:   | [API رایگان قیمت طلا و سکه و دلار](https://brsapi.ir/free-api-gold-currency-webservice/) | بدون نیاز به ثبت‌نام و API Key | 
  | :free:   | [API نرخ](https://nerkh.io) | سرویس آنلاین لحظه‌ای نرخ ارز، طلا، سکه و ارز دیجیتال به صورت رایگان
+:moneybag: | [API قیمت خودرو سورس آرنا](https://sourcearena.ir/%d9%88%d8%a8-%d8%b3%d8%b1%d9%88%db%8c%d8%b3-api-%d9%82%db%8c%d9%85%d8%aa-%d8%ae%d9%88%d8%af%d8%b1%d9%88/) | قیمت روزانه خودروها <!-- markdown-link-check-disable-line -->
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
@@ -245,14 +244,19 @@
  | --- |--- | ---
  :free::moneybag: | [API نشان](https://platform.neshan.org/) | API توسعه نقشه نشان که برای دریافت آن نیاز به ثبت‌نام دارید
  :question: | [API نقشه تهران](https://map.tehran.ir/) | اطلاعات تهران بر روی نقشه، جهت خواست از منوی بیشتر گزینه رابط برنامه‌نویس نقشه را انتخاب کنید <!-- markdown-link-check-disable-line -->
-:free::moneybag: | [API سیدار مپ](http://api.cedarmaps.com/docs/) | سرویس نقشه ایرانی با قابلیت‌هایی نظیر تبدیل نقطه جغرافیایی به آدرس و مکان یاب و جانمایی روی نقشه
  :free::moneybag: | [API سایت map.ir](http://corp.map.ir/map-services/api-services/developers/) | یک سرویس دیگر نقشه ایرانی
  :free: | [API پارسی مپ](https://www.parsimap.com/api/v2/docs/) | سرویس نقشه ایرانی با قابلیت استفاده عمومی یا اختصاصی
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
 
+---
+## بایگانی موارد غیرفعال
+:warning: این APIها دیگر در آدرس ارائه شده قابل دسترس نیستند و صرفاً جهت بایگانی در این بخش قرار داده شده‌اند.
 
-
+وضعیت قیمت | لینک | موضوع
+| --- |--- | ---
+:moneybag: | [API ابرفانت](https://abrfa.net/api/) | سرویس استعلام قبض همراه اول و ایرانسل و نرخ ارز و کریپتو<!-- markdown-link-check-disable-line -->  
+:free::moneybag: | [API سیدار مپ](http://api.cedarmaps.com/docs/) | سرویس نقشه ایرانی با قابلیت‌هایی نظیر تبدیل نقطه جغرافیایی به آدرس و مکان یاب و جانمایی روی نقشه <!-- markdown-link-check-disable-line -->
 
 </div>
