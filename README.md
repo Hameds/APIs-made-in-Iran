@@ -40,12 +40,13 @@
 - [پردازش گفتار](#پردازش-گفتار)
 - [پیام‌رسان](#پیام-رسان)
 - [تقویم و اوقات شرعی](#تقویم-و-اوقات-شرعی)
+- [حاکمیتی](#حاکمیتی)
 - [حمل و نقل و سفر](#حمل-و-نقل-و-سفر)
+- [خدمات ابری و میزبانی وب و شبکه](#خدمات-ابری-و-میزبانی-وب-و-شبکه)
+- [رمزارز و صرافی](#رمزارز-و-صرافی)
 - [قیمت‌ها](#قیمتها)
 - [مالی](#مالی)
 - [نقشه](#نقشه)
-- [خدمات ابری و میزبانی وب و شبکه](#خدمات-ابری-و-میزبانی-وب-و-شبکه)
-- [حاکمیتی](#حاکمیتی)
 
 ## نیازمند دسته بندی
 وضعیت قیمت | لینک | موضوع
@@ -68,13 +69,10 @@
 :free: | [API ساخت QR Code](http://qr-code.ir/api/) | سرویس ساخت QR Code با قابلیت سفارشی سازی ابعاد و ایجاد کد برای محتوای وردپرس و بلاگفا و رزبلاگ
 :free::moneybag: | [API آوانک](https://www.avanak.ir/webservice) | سرویس پیام صوتی
 :free: | [API ژاکت](https://zhaket.github.io/guard/) | سرویس تعریف لایسنس برای ابزارهای وردپرسی
-:free: | [API نوبیتکس](https://apidocs.nobitex.ir/#api) | پلتفرم مبادله بیت‌کوین و سایر رمزارزها
 :moneybag: | [API سرچ لاین](https://www.searchline.ir/Documentation) | سامانه استعلام آنلاین
 :moneybag: | [API پاکت](https://docs.pakat.net/) | سرویس ایمیل مارکتینگ
-:free: | [API اکسیر](https://apidocs.exir.io/) | پلتفورم هوشمند و اتوماتیک مبادله بیت کوین و سایر رمزارزها
 :moneybag: | [API قیمت خودرو سورس آرنا](https://sourcearena.ir/%d9%88%d8%a8-%d8%b3%d8%b1%d9%88%db%8c%d8%b3-api-%d9%82%db%8c%d9%85%d8%aa-%d8%ae%d9%88%d8%af%d8%b1%d9%88/) | قیمت روزانه خودروها <!-- markdown-link-check-disable-line -->
 :question: | [API سرویس‌های پاد](http://docs.pod.ir/) | مستندات سرویس‌های متنوع پاد از فناپ سافت <!-- markdown-link-check-disable-line -->
-:question: | [API درگاه رمزارز زنجیر](https://github.com/Zanjir/API-Documentation/) | وب سرویس درگاه پرداخت رمز ارز
 :question: | [API نامبرلند](https://numberland.ir/developers) | سرویس ارائه شماره مجازی
 :moneybag: | [API قبضینو](https://ghabzino.com/api) | مجموعه استعلام‌های قبوض مختلف خدماتی از جمله قبض آب و برق و گاز و ...
  :free::moneybag: | [API نجوا](https://doc.najva.com/) | سرویس پوش نوتیفیکیشن نجوا
@@ -147,6 +145,15 @@
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
+## حاکمیتی
+وضعیت قیمت | لینک | موضوع
+ | --- |--- | ---
+:question: | [API امتا](https://ecsw.ir/developer/) | سامانه یکپارچه احراز مشتریان تجارت الکترونیک <!-- markdown-link-check-disable-line -->
+:question: | [API تامین اجتماعی](https://apiissue.tamin.ir/) | مجموعه راهنماهای پیاده‌سازی API دارو و استعلامات تامین اجتماعی <!-- markdown-link-check-disable-line -->
+:free: | [API خدمات شهری تهران](http://api.tehran.ir/) | مجموعه اطلاعات شهری تهران با قابلیت درخواست API <!-- markdown-link-check-disable-line -->
+
+[:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
+
 ## حمل و نقل و سفر
 وضعیت قیمت | لینک | موضوع
  | --- |--- | ---
@@ -161,6 +168,34 @@
  :free::moneybag: | [API اسنپ باکس](https://api-docs.snapp-box.com/) | سرویس سفارش حمل بار اسنپ باکس 
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
+
+
+## خدمات ابری و میزبانی وب و شبکه
+وضعیت قیمت | لینک | موضوع
+ | --- |--- | ---
+ :free: | [API دی‌ان‌اس‌ لب](https://dnslab.link/api) | وب سرویس اطلاعات آی پی ، بررسی پینگ ، بررسی باز بودن Port یک آی پی یا آدرس عمومی ، پرس و جو رکورد های DNS از قبیل (A,NS,CNAME,MX,SOA,TXT)
+ :free: | [API بدست آوردن آی‌پی عمومی](https://ip.dnslab.link) | بدست آوردن IP عمومی و همچنین تبدیل آن به HEX و Json
+ :free::moneybag: | [API سرویس VoD ابر آروان](https://www.arvancloud.ir/api/vod/2.0) | خدمات پلتفرم ویدئوی ابر آروان
+ :free::moneybag: | [API سرویس تبلیغات ویدویی ابر آروان](https://www.arvancloud.ir/api/vads/2.0) | خدمات تبلیغات ویدیویی ابر آروان
+ :free::moneybag: | [API سرویس CDN ابر آروان](https://www.arvancloud.ir/api/cdn/4.0) | خدمات شبکه توزیع محتوی ابر آروان
+ :free::moneybag: | [API سرویس IaaS ابر آروان](https://www.arvancloud.ir/api/iaas/1.0) | خدمات رایانش ابری ابر آروان
+ :moneybag: | [API پارسا اسپیس](http://api.parsaspace.com/) | سرویس فایل هاستینگ
+ :moneybag: | [API وب‌آلفا](https://www.webalfa.net/kb/api-v2-manual) | API برای ثبت و تمدید و انتقال و به‌روزرسانی و دریافت اطلاعات دامنه‌های ir
+ :question: | [API ذرت](http://filecorn.api-docs.io/) | سرویس فضای ابری اختصاصی
+
+[:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
+
+
+## رمزارز و صرافی
+وضعیت قیمت | لینک | موضوع
+ | --- |--- | ---
+:moneybag: | [API والکس](https://api-docs.wallex.ir) | API صرافی رمزارز والکس برای معامله کریپتو و دریافت قیمت
+:free: | [API نوبیتکس](https://apidocs.nobitex.ir/#api) | پلتفرم مبادله بیت‌کوین و سایر رمزارزها
+:question: | [API درگاه رمزارز زنجیر](https://github.com/Zanjir/API-Documentation/) | وب سرویس درگاه پرداخت رمز ارز
+:free: | [API اکسیر](https://apidocs.exir.io/) | پلتفورم هوشمند و اتوماتیک مبادله بیت کوین و سایر رمزارزها
+
+[:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
+
 
 ## قیمت‌ها
 وضعیت قیمت | لینک | موضوع
@@ -186,8 +221,7 @@
  :free::moneybag: | [API حساب‌فا](https://hesabfa.com/help/api) | سرویس حسابداری آنلاین 
  :moneybag: | [API بورس ویو](http://www.bourseview.com/views/api.html) | اطلاعات معاملاتی لحظه‎ای بازار بورس و تاریخچه آن
  :moneybag: | [API بورس سورس آرنا](https://sourcearena.ir/%d9%88%d8%a8-%d8%b3%d8%b1%d9%88%db%8c%d8%b3-api-%d8%a8%d9%88%d8%b1%d8%b3-%d9%81%d8%b1%d8%a7%d8%a8%d9%88%d8%b1%d8%b3/) | اطلاعات بازار بورس و فرابورس و همه نمادها یا یک نماد مشخص <!-- markdown-link-check-disable-line -->
- :moneybag: | [API والکس](https://api-docs.wallex.ir) | API صرافی رمزارز والکس برای معامله کریپتو و دریافت قیمت
-:free: | [API بورس](https://brsapi.ir/) | وب سرویس رایگان برای بورس تهران. نیازمند درخواست API Key
+ :free: | [API بورس](https://brsapi.ir/) | وب سرویس رایگان برای بورس تهران. نیازمند درخواست API Key
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
@@ -202,30 +236,8 @@
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
-## خدمات ابری و میزبانی وب و شبکه
-وضعیت قیمت | لینک | موضوع
- | --- |--- | ---
- :free: | [API دی‌ان‌اس‌ لب](https://dnslab.link/api) | وب سرویس اطلاعات آی پی ، بررسی پینگ ، بررسی باز بودن Port یک آی پی یا آدرس عمومی ، پرس و جو رکورد های DNS از قبیل (A,NS,CNAME,MX,SOA,TXT)
- :free: | [API بدست آوردن آی‌پی عمومی](https://ip.dnslab.link) | بدست آوردن IP عمومی و همچنین تبدیل آن به HEX و Json
- :free::moneybag: | [API سرویس VoD ابر آروان](https://www.arvancloud.ir/api/vod/2.0) | خدمات پلتفرم ویدئوی ابر آروان
- :free::moneybag: | [API سرویس تبلیغات ویدویی ابر آروان](https://www.arvancloud.ir/api/vads/2.0) | خدمات تبلیغات ویدیویی ابر آروان
- :free::moneybag: | [API سرویس CDN ابر آروان](https://www.arvancloud.ir/api/cdn/4.0) | خدمات شبکه توزیع محتوی ابر آروان
- :free::moneybag: | [API سرویس IaaS ابر آروان](https://www.arvancloud.ir/api/iaas/1.0) | خدمات رایانش ابری ابر آروان
- :moneybag: | [API پارسا اسپیس](http://api.parsaspace.com/) | سرویس فایل هاستینگ
- :moneybag: | [API وب‌آلفا](https://www.webalfa.net/kb/api-v2-manual) | API برای ثبت و تمدید و انتقال و به‌روزرسانی و دریافت اطلاعات دامنه‌های ir
- :question: | [API ذرت](http://filecorn.api-docs.io/) | سرویس فضای ابری اختصاصی
-
- [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
 
-## حاکمیتی
-وضعیت قیمت | لینک | موضوع
- | --- |--- | ---
-:question: | [API امتا](https://ecsw.ir/developer/) | سامانه یکپارچه احراز مشتریان تجارت الکترونیک <!-- markdown-link-check-disable-line -->
-:question: | [API تامین اجتماعی](https://apiissue.tamin.ir/) | مجموعه راهنماهای پیاده‌سازی API دارو و استعلامات تامین اجتماعی <!-- markdown-link-check-disable-line -->
-:free: | [API خدمات شهری تهران](http://api.tehran.ir/) | مجموعه اطلاعات شهری تهران با قابلیت درخواست API <!-- markdown-link-check-disable-line -->
-
-[:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
 
 </div>
