@@ -225,6 +225,8 @@
  | :free:   | [API نرخ](https://nerkh.io) | سرویس آنلاین لحظه‌ای نرخ ارز، طلا، سکه و ارز دیجیتال به صورت رایگان
 :moneybag: | [API قیمت خودرو سورس آرنا](https://sourcearena.ir/%d9%88%d8%a8-%d8%b3%d8%b1%d9%88%db%8c%d8%b3-api-%d9%82%db%8c%d9%85%d8%aa-%d8%ae%d9%88%d8%af%d8%b1%d9%88/) | قیمت روزانه خودروها <!-- markdown-link-check-disable-line -->
  :free: | [API رایگان قیمت فلزات گران‌بها](https://brsapi.ir/free-api-commodity-webservice/) | قیمت لحظه‌ای فلزات گران‌بها و انرژی
+ :free: | [API رایگان قیمت ارز دیجیتال](https://brsapi.ir/free-api-cryptocurrency-webservice/) | قیمت لحظه‌ای بیش از ۳ هزار ارز دیجیتال 
+ :free: | [API قیمت تتر به تومان](https://api.zipodo.ir/usdt/) | نمایش قیمت تتر به تومان در قالب `json`
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
