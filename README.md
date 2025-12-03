@@ -41,6 +41,7 @@
 - [پردازش گفتار](#پردازش-گفتار)
 - [پیام‌رسان](#پیام-رسان)
 - [تقویم و اوقات شرعی](#تقویم-و-اوقات-شرعی)
+- [توسعه](#توسعه)
 - [حاکمیتی](#حاکمیتی)
 - [حمل و نقل و سفر](#حمل-و-نقل-و-سفر)
 - [خدمات ابری و میزبانی وب و شبکه](#خدمات-ابری-و-میزبانی-وب-و-شبکه)
@@ -56,20 +57,14 @@
 :free::moneybag: | [API پذیرش24](https://developers.paziresh24.com/) |  جستجو و نوبت دهی حضوری و ویزیت آنلاین پزشکان ایران
 :free::moneybag: | [API سرویس واژه یاب](https://api.vajehyab.com/api/documentation) |  برای جستجوی معانی کلمات در فرهنگ‌نامه‌های مختلف
 :question: | [API شارژ تلفن همراه](http://ws.toshanet.ir/) | خدمات شارژ تلفن همراه
-:free::moneybag: | [API بکتوری](https://backtory.com/) | یک ارائه‌دهنده دیگر خدمات Backend as a Service
 :free: | [API بهنویس](http://behnevis.com/api.html) | تبدیل پینگلیش به فارسی 
 :moneybag: | [API سرویس OCR](https://www.iranocr.ir/Home/%D9%88%D8%A8_%D8%B3%D8%B1%D9%88%DB%8C%D8%B3) | ارائه‌دهنده خدمات تبدیل دست‌خط، عکس و pdf به متن با قابلیت تشخیص فارسی
-:moneybag: | [API مستر۲اپ](http://mr2app.com/blog/app-build-api/) | سرویس ساخت اپلیکیشن بر اساس محتوای سایت
-:free: | [API ساخت QR Code](http://qr-code.ir/api/) | سرویس ساخت QR Code با قابلیت سفارشی سازی ابعاد و ایجاد کد برای محتوای وردپرس و بلاگفا و رزبلاگ
-:free: | [API ژاکت](https://zhaket.github.io/guard/) | سرویس تعریف لایسنس برای ابزارهای وردپرسی
 :moneybag: | [API سرچ لاین](https://www.searchline.ir/Documentation) | سامانه استعلام آنلاین
 :question: | [API سرویس‌های پاد](http://docs.pod.ir/) | مستندات سرویس‌های متنوع پاد از فناپ سافت <!-- markdown-link-check-disable-line -->
 :question: | [API نامبرلند](https://numberland.ir/developers) | سرویس ارائه شماره مجازی
 :moneybag: | [API قبضینو](https://ghabzino.com/api) | مجموعه استعلام‌های قبوض مختلف خدماتی از جمله قبض آب و برق و گاز و ...
 :free: | [API دیجی‌کالا](https://gist.github.com/sh-sh-dev/542724a6ac72dc04623ecffaa4989620) | توضیحات استفاده از API دیجی‌کالا که در gist ارائه شده
 :free: | [API پلاکیاب](https://docs.ineo-team.ir/pelakyab/) | سرویس پلاک یاب (با وارد کردن نمره 2 رقمی و حرف پلاک، استان و شهر مربوط به آن پلاک ماشین را پیدا کنید)
-:moneybag: | [API ChatGPT](https://one-api.ir/api-chatgpt) | سرویس ساخت ربات چت جی بی تی  هوش مصنوعی
-
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
@@ -143,6 +138,16 @@
 :free: | [API مناسبت ها و تعطیلات شمسی](https://holidayapi.ir) | وب سرویس مناسبت ها و تعطیلات شمسی
 :free: | [API   تقویم فارسی و انگلیسی ](https://persian-calendar.ir/) |  دریافت تاریخ‌ها، تعطیلات و تبدیل تاریخ‌ها
 
+[:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
+
+## توسعه
+وضعیت قیمت | لینک | موضوع
+ | --- |--- | ---
+:free::moneybag: | [API بکتوری](https://backtory.com/) | یک ارائه‌دهنده دیگر خدمات Backend as a Service
+:moneybag: | [API مستر۲اپ](http://mr2app.com/blog/app-build-api/) | سرویس ساخت اپلیکیشن بر اساس محتوای سایت
+:free: | [API ساخت QR Code](http://qr-code.ir/api/) | سرویس ساخت QR Code با قابلیت سفارشی سازی ابعاد و ایجاد کد برای محتوای وردپرس و بلاگفا و رزبلاگ
+:free: | [API ژاکت](https://zhaket.github.io/guard/) | سرویس تعریف لایسنس برای ابزارهای وردپرسی
+:moneybag: | [API ChatGPT](https://one-api.ir/api-chatgpt) | سرویس ساخت ربات ChatGPT هوش مصنوعی
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
