@@ -37,8 +37,7 @@
 - [نیازمند دسته بندی](#نیازمند-دسته-بندی)
 - [ارتباطات و بازاریابی](#ارتباطات-و-بازاریابی)
 - [بانک و پرداخت آنلاین](#بانک-و-پرداخت-آنلاین)
-- [پردازش متن](#پردازش-متن)
-- [پردازش گفتار](#پردازش-گفتار)
+- [پردازش متن و گفتار و OCR](#پردازش-متن-و-گفتار-و-ocr)
 - [پیام‌رسان](#پیام-رسان)
 - [تقویم و اوقات شرعی](#تقویم-و-اوقات-شرعی)
 - [توسعه](#توسعه)
@@ -57,8 +56,6 @@
 :free::moneybag: | [API پذیرش24](https://developers.paziresh24.com/) |  جستجو و نوبت دهی حضوری و ویزیت آنلاین پزشکان ایران
 :free::moneybag: | [API سرویس واژه یاب](https://api.vajehyab.com/api/documentation) |  برای جستجوی معانی کلمات در فرهنگ‌نامه‌های مختلف
 :question: | [API شارژ تلفن همراه](http://ws.toshanet.ir/) | خدمات شارژ تلفن همراه
-:free: | [API بهنویس](http://behnevis.com/api.html) | تبدیل پینگلیش به فارسی 
-:moneybag: | [API سرویس OCR](https://www.iranocr.ir/Home/%D9%88%D8%A8_%D8%B3%D8%B1%D9%88%DB%8C%D8%B3) | ارائه‌دهنده خدمات تبدیل دست‌خط، عکس و pdf به متن با قابلیت تشخیص فارسی
 :moneybag: | [API سرچ لاین](https://www.searchline.ir/Documentation) | سامانه استعلام آنلاین
 :question: | [API سرویس‌های پاد](http://docs.pod.ir/) | مستندات سرویس‌های متنوع پاد از فناپ سافت <!-- markdown-link-check-disable-line -->
 :question: | [API نامبرلند](https://numberland.ir/developers) | سرویس ارائه شماره مجازی
@@ -103,21 +100,17 @@
  
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
-## پردازش متن
+## پردازش متن و گفتار و OCR
 وضعیت قیمت | لینک | موضوع
  | --- |--- | ---
  :free::moneybag: | [API متن‌کاوی](https://api.text-mining.ir) | مجموعه API برای پردازش متن و متن‌کاوی فارسی [مستندات](https://docs.text-mining.ir)
  :free::moneybag: | [API ترگمان](http://api.targoman.com/) | خدمات ترجمه ماشینی **عدم ارائه سرویس به صورت موقت به دلیل لغو خدمات زیرساخت پردازشی از سوی وزارت ارتباطات** <!-- markdown-link-check-disable-line -->
  :free: | [API فارس‌نت](http://farsnet.nlp.sbu.ac.ir/Site3/Modules/Public/Default.jsp) | سرویس قابل استفاده در دات‌نت و جاوا برای شبکه واژگانی مورد استفاده در پردازش زبان طبیعی فارسی
  :free::moneybag: | [API آریانا](http://www.farsireader.com/connection/) | سرویس متن به گفتار فارسی
-
-[:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
-
-## پردازش گفتار
-وضعیت قیمت | لینک | موضوع
- | --- |--- | ---
  :free::moneybag: | [API فارس‌آوا](https://amerandish.com)| [مستندات](https://bump.sh/doc/farsava) تبدیل گفتار به متن
  :moneybag: | [API سرویس IoType](https://www.iotype.com/api) | سرویس تبدیل گفتار به نوشتار
+:free: | [API بهنویس](http://behnevis.com/api.html) | تبدیل پینگلیش به فارسی 
+:moneybag: | [API سرویس OCR](https://www.iranocr.ir/Home/%D9%88%D8%A8_%D8%B3%D8%B1%D9%88%DB%8C%D8%B3) | ارائه‌دهنده خدمات تبدیل دست‌خط، عکس و pdf به متن با قابلیت تشخیص فارسی
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
