@@ -35,6 +35,7 @@
 
 ### فهرست دسته بندی ها:
 - [نیازمند دسته بندی](#نیازمند-دسته-بندی)
+- [ارتباطات و بازاریابی](#ارتباطات-و-بازاریابی)
 - [بانک و پرداخت آنلاین](#بانک-و-پرداخت-آنلاین)
 - [پردازش متن](#پردازش-متن)
 - [پردازش گفتار](#پردازش-گفتار)
@@ -57,21 +58,16 @@
 :question: | [API شارژ تلفن همراه](http://ws.toshanet.ir/) | خدمات شارژ تلفن همراه
 :free::moneybag: | [API بکتوری](https://backtory.com/) | یک ارائه‌دهنده دیگر خدمات Backend as a Service
 :free: | [API بهنویس](http://behnevis.com/api.html) | تبدیل پینگلیش به فارسی 
-:moneybag: | [API رایچت](https://raychat.io/api) | پلتفرم گفتگوی آنلاین و ارتباط با مشتریان
-:free::moneybag: | [API دیجی سروی](https://www.digisurvey.net/apihelp) | سرویس ایجاد پرسشنامه و آزمون آنلاین
 :free::moneybag: | [API آریانا](http://www.farsireader.com/connection/) | سرویس متن به گفتار فارسی
 :moneybag: | [API سرویس OCR](https://www.iranocr.ir/Home/%D9%88%D8%A8_%D8%B3%D8%B1%D9%88%DB%8C%D8%B3) | ارائه‌دهنده خدمات تبدیل دست‌خط، عکس و pdf به متن با قابلیت تشخیص فارسی
 :moneybag: | [API مستر۲اپ](http://mr2app.com/blog/app-build-api/) | سرویس ساخت اپلیکیشن بر اساس محتوای سایت
 :free: | [API ساخت QR Code](http://qr-code.ir/api/) | سرویس ساخت QR Code با قابلیت سفارشی سازی ابعاد و ایجاد کد برای محتوای وردپرس و بلاگفا و رزبلاگ
-:free::moneybag: | [API آوانک](https://www.avanak.ir/webservice) | سرویس پیام صوتی
 :free: | [API ژاکت](https://zhaket.github.io/guard/) | سرویس تعریف لایسنس برای ابزارهای وردپرسی
 :moneybag: | [API سرچ لاین](https://www.searchline.ir/Documentation) | سامانه استعلام آنلاین
-:moneybag: | [API پاکت](https://docs.pakat.net/) | سرویس ایمیل مارکتینگ
 :moneybag: | [API قیمت خودرو سورس آرنا](https://sourcearena.ir/%d9%88%d8%a8-%d8%b3%d8%b1%d9%88%db%8c%d8%b3-api-%d9%82%db%8c%d9%85%d8%aa-%d8%ae%d9%88%d8%af%d8%b1%d9%88/) | قیمت روزانه خودروها <!-- markdown-link-check-disable-line -->
 :question: | [API سرویس‌های پاد](http://docs.pod.ir/) | مستندات سرویس‌های متنوع پاد از فناپ سافت <!-- markdown-link-check-disable-line -->
 :question: | [API نامبرلند](https://numberland.ir/developers) | سرویس ارائه شماره مجازی
 :moneybag: | [API قبضینو](https://ghabzino.com/api) | مجموعه استعلام‌های قبوض مختلف خدماتی از جمله قبض آب و برق و گاز و ...
- :free::moneybag: | [API نجوا](https://doc.najva.com/) | سرویس پوش نوتیفیکیشن نجوا
 :moneybag: | [API آنالیکا](https://www.analika.com/api) | سرویس تحلیل رفتار و بازاریابی هوشمند
 :free: | [API دیجی‌کالا](https://gist.github.com/sh-sh-dev/542724a6ac72dc04623ecffaa4989620) | توضیحات استفاده از API دیجی‌کالا که در gist ارائه شده
 :free: | [API پلاکیاب](https://docs.ineo-team.ir/pelakyab/) | سرویس پلاک یاب (با وارد کردن نمره 2 رقمی و حرف پلاک، استان و شهر مربوط به آن پلاک ماشین را پیدا کنید)
@@ -80,6 +76,18 @@
 
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
+
+## ارتباطات و بازاریابی
+وضعیت قیمت | لینک | موضوع
+ | --- |--- | ---
+:moneybag: | [API رایچت](https://raychat.io/api) | پلتفرم گفتگوی آنلاین و ارتباط با مشتریان
+:free::moneybag: | [API دیجی سروی](https://www.digisurvey.net/apihelp) | سرویس ایجاد پرسشنامه و آزمون آنلاین
+:free::moneybag: | [API آوانک](https://www.avanak.ir/webservice) | سرویس پیام صوتی
+:moneybag: | [API پاکت](https://docs.pakat.net/) | سرویس ایمیل مارکتینگ
+:free::moneybag: | [API نجوا](https://doc.najva.com/) | سرویس پوش نوتیفیکیشن نجوا
+
+[:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
+
 
 ##  بانک و پرداخت آنلاین
 وضعیت قیمت | لینک | موضوع
