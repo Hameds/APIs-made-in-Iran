@@ -43,6 +43,7 @@
 - [حاکمیتی](#حاکمیتی)
 - [حمل و نقل و سفر](#حمل-و-نقل-و-سفر)
 - [خدمات ابری و میزبانی وب و شبکه](#خدمات-ابری-و-میزبانی-وب-و-شبکه)
+- [رسانه و محتوای دیجیتال](#رسانه-و-محتوای-دیجیتال)
 - [رمزارز و صرافی](#رمزارز-و-صرافی)
 - [قیمت‌ها](#قیمتها)
 - [مالی](#مالی)
@@ -54,16 +55,11 @@
 :free::moneybag: | [API پذیرش24](https://developers.paziresh24.com/) |  جستجو و نوبت دهی حضوری و ویزیت آنلاین پزشکان ایران
 :free::moneybag: | [API سرویس واژه یاب](https://api.vajehyab.com/api/documentation) |  برای جستجوی معانی کلمات در فرهنگ‌نامه‌های مختلف
 :question: | [API شارژ تلفن همراه](http://ws.toshanet.ir/) | خدمات شارژ تلفن همراه
-:free: | [API فیلم‌ها](http://moviesapi.ir/) | اطلاعات فیلم‌های برتر
 :free::moneybag: | [API بکتوری](https://backtory.com/) | یک ارائه‌دهنده دیگر خدمات Backend as a Service
 :free: | [API بهنویس](http://behnevis.com/api.html) | تبدیل پینگلیش به فارسی 
-:free::moneybag: | [API حافظ](http://hafez.emrani.net/Api) | لیست غزلیات حافظ با امکان جستجو و فال / 100 درخواست اول رایگان
-:free: | [API لحظه‌نگار](https://app.swaggerhub.com/apis/Parsizabanan/lahzenegar/) | پلتفرم عمومی پخش زنده اینترنتی لحظه‌نگار
-:question: | [API آپارات](https://www.aparat.com/api) | اطلاعات کانال‌ها، پروفایل‌ها و ویدئوهای سایت آپارات
 :moneybag: | [API رایچت](https://raychat.io/api) | پلتفرم گفتگوی آنلاین و ارتباط با مشتریان
 :free::moneybag: | [API دیجی سروی](https://www.digisurvey.net/apihelp) | سرویس ایجاد پرسشنامه و آزمون آنلاین
 :free::moneybag: | [API آریانا](http://www.farsireader.com/connection/) | سرویس متن به گفتار فارسی
-:free: | [API گنجور - نهایی نشده](https://ganjgah.ir) | گنجور، مخزن اشعار فارسی - [مخزن گیتهاب](https://github.com/ganjoor/GanjoorService) 
 :moneybag: | [API سرویس OCR](https://www.iranocr.ir/Home/%D9%88%D8%A8_%D8%B3%D8%B1%D9%88%DB%8C%D8%B3) | ارائه‌دهنده خدمات تبدیل دست‌خط، عکس و pdf به متن با قابلیت تشخیص فارسی
 :moneybag: | [API مستر۲اپ](http://mr2app.com/blog/app-build-api/) | سرویس ساخت اپلیکیشن بر اساس محتوای سایت
 :free: | [API ساخت QR Code](http://qr-code.ir/api/) | سرویس ساخت QR Code با قابلیت سفارشی سازی ابعاد و ایجاد کد برای محتوای وردپرس و بلاگفا و رزبلاگ
@@ -81,8 +77,7 @@
 :free: | [API پلاکیاب](https://docs.ineo-team.ir/pelakyab/) | سرویس پلاک یاب (با وارد کردن نمره 2 رقمی و حرف پلاک، استان و شهر مربوط به آن پلاک ماشین را پیدا کنید)
 :moneybag: | [API ابرفانت](https://abrfa.net/api/) | سرویس استعلام قبض همراه اول و ایرانسل و نرخ ارز و کریپتو
 :moneybag: | [API ChatGPT](https://one-api.ir/api-chatgpt) | سرویس ساخت ربات چت جی بی تی  هوش مصنوعی
-:free: | [API قافیه‌یاب هم‌صدا](https://rhyming.ir/posts/rhyme-api) |  جستجوی کلمات هم‌قافیه فارسی
-:free: | [API فال حافظ](https://arminamirinasab.github.io/hafez/) |  فال‌بینی حافظ و 200 غزل از حافظ شیرازی 
+
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
@@ -185,6 +180,18 @@
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
+## رسانه و محتوای دیجیتال
+وضعیت قیمت | لینک | موضوع
+ | --- |--- | ---
+:free: | [API گنجور - نهایی نشده](https://ganjgah.ir) | گنجور، مخزن اشعار فارسی - [مخزن گیتهاب](https://github.com/ganjoor/GanjoorService) 
+:free::moneybag: | [API حافظ](http://hafez.emrani.net/Api) | لیست غزلیات حافظ با امکان جستجو و فال / 100 درخواست اول رایگان
+:free: | [API لحظه‌نگار](https://app.swaggerhub.com/apis/Parsizabanan/lahzenegar/) | پلتفرم عمومی پخش زنده اینترنتی لحظه‌نگار
+:question: | [API آپارات](https://www.aparat.com/api) | اطلاعات کانال‌ها، پروفایل‌ها و ویدئوهای سایت آپارات
+:free: | [API قافیه‌یاب هم‌صدا](https://rhyming.ir/posts/rhyme-api) |  جستجوی کلمات هم‌قافیه فارسی
+:free: | [API فال حافظ](https://arminamirinasab.github.io/hafez/) |  فال‌بینی حافظ و 200 غزل از حافظ شیرازی 
+:free: | [API فیلم‌ها](http://moviesapi.ir/) | اطلاعات فیلم‌های برتر
+
+[:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
 ## رمزارز و صرافی
 وضعیت قیمت | لینک | موضوع
