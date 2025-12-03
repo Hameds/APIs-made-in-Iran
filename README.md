@@ -159,7 +159,6 @@
  :question: | [API سفر۷۲۴](https://safar724.com/post/safar724/api) | وب سرویس و API فروش بلیت اتوبوس که با درخواست ایمیلی ارائه می‌گردد
  :moneybag: | [API های هالیدی](http://hiholiday.ir/webservice) |  سرویس پروازهای چارتر و هتل‌های ایران و بیمه مسافرتی
  :moneybag: | [API تیپاکس](https://tipaxco.com/etipax) | پلتفرم تیپاکس <!-- markdown-link-check-disable-line -->
- :moneybag: | [API پست بار](https://postbar.ir/%D9%86%D8%AD%D9%88%D9%87-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-api-%D9%BE%D8%B3%D8%AA-%D8%A8%D8%A7%D8%B1) | سرویس پست بار
  :free::moneybag: | [API تاپین](https://docs.tapin.ir/) | سرویس اطلاعات پست
  :free::moneybag: | [API اسنپ باکس](https://api-docs.snapp-box.com/) | سرویس سفارش حمل بار اسنپ باکس 
  :question: | [API فروش بلیت اتوبوس](https://www.payaneha.com/pages/73/وب-سرویس-فروش-بلیط-اتوبوس) | سرویس فروش بلیت اتوبوس نیازمند عقد قرارداد NDA
@@ -186,7 +185,7 @@
  | --- |--- | ---
 :free: | [API گنجور - نهایی نشده](https://ganjgah.ir) | گنجور، مخزن اشعار فارسی - [مخزن گیتهاب](https://github.com/ganjoor/GanjoorService) 
 :free::moneybag: | [API حافظ](http://hafez.emrani.net/Api) | لیست غزلیات حافظ با امکان جستجو و فال / 100 درخواست اول رایگان
-:free: | [API لحظه‌نگار](https://app.swaggerhub.com/apis/Parsizabanan/lahzenegar/1.0.1-oas3) | پلتفرم عمومی پخش زنده اینترنتی لحظه‌نگار
+:free: | [API لحظه‌نگار](https://app.swaggerhub.com/apis/Parsizabanan/lahzenegar/1.0.1-oas3) | پلتفرم عمومی پخش زنده اینترنتی لحظه‌نگار <!-- markdown-link-check-disable-line -->
 :question: | [API آپارات](https://www.aparat.com/api) | اطلاعات کانال‌ها، پروفایل‌ها و ویدئوهای سایت آپارات
 :free: | [API قافیه‌یاب هم‌صدا](https://rhyming.ir/posts/rhyme-api) |  جستجوی کلمات هم‌قافیه فارسی
 :free: | [API فال حافظ](https://arminamirinasab.github.io/hafez/) |  فال‌بینی حافظ و 200 غزل از حافظ شیرازی 
@@ -228,7 +227,7 @@
 وضعیت قیمت | لینک | موضوع
  | --- |--- | ---
  :moneybag: | [API بازار بورس تهران](https://db.api.mabnadp.com/) | شامل کلیه اطلاعات مالی، اخبار و معاملات و سایر داده‌های بازار بورس تهران <!-- markdown-link-check-disable-line -->
- :question: | [API فینوتک](https://apibeta.finnotech.ir/) | خدمات بانکی بر پایه دو دسته سرویس‌های مبتنی بر کارت و سرویس‌های مبتنی بر حساب بانکی
+ :question: | [API فینوتک](https://apibeta.finnotech.ir/) | خدمات بانکی بر پایه دو دسته سرویس‌های مبتنی بر کارت و سرویس‌های مبتنی بر حساب بانکی <!-- markdown-link-check-disable-line -->
  :question: | [API نوآوران امین](http://www.nadpco.com/#/HelpAPI) | سرویس اطلاعات بازار بورس تهران <!-- markdown-link-check-disable-line -->
  :free::moneybag: | [API حساب‌فا](https://hesabfa.com/help/api) | سرویس حسابداری آنلاین 
  :moneybag: | [API بورس ویو](http://www.bourseview.com/views/api.html) | اطلاعات معاملاتی لحظه‎ای بازار بورس و تاریخچه آن
