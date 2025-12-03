@@ -45,7 +45,7 @@
 - [مالی](#مالی)
 - [نقشه](#نقشه)
 - [خدمات ابری و میزبانی وب و شبکه](#خدمات-ابری-و-میزبانی-وب-و-شبکه)
-
+- [حاکمیتی](#حاکمیتی)
 
 ## نیازمند دسته بندی
 وضعیت قیمت | لینک | موضوع
@@ -68,18 +68,15 @@
 :free: | [API ساخت QR Code](http://qr-code.ir/api/) | سرویس ساخت QR Code با قابلیت سفارشی سازی ابعاد و ایجاد کد برای محتوای وردپرس و بلاگفا و رزبلاگ
 :free::moneybag: | [API آوانک](https://www.avanak.ir/webservice) | سرویس پیام صوتی
 :free: | [API ژاکت](https://zhaket.github.io/guard/) | سرویس تعریف لایسنس برای ابزارهای وردپرسی
-:free: | [API خدمات شهری تهران](http://api.tehran.ir/) | مجموعه اطلاعات شهری تهران با قابلیت درخواست API <!-- markdown-link-check-disable-line -->
 :free: | [API نوبیتکس](https://apidocs.nobitex.ir/#api) | پلتفرم مبادله بیت‌کوین و سایر رمزارزها
 :moneybag: | [API سرچ لاین](https://www.searchline.ir/Documentation) | سامانه استعلام آنلاین
-:question: | [API امتا](https://ecsw.ir/developer/) | سامانه یکپارچه احراز مشتریان تجارت الکترونیک <!-- markdown-link-check-disable-line -->
 :moneybag: | [API پاکت](https://docs.pakat.net/) | سرویس ایمیل مارکتینگ
 :free: | [API اکسیر](https://apidocs.exir.io/) | پلتفورم هوشمند و اتوماتیک مبادله بیت کوین و سایر رمزارزها
 :moneybag: | [API قیمت خودرو سورس آرنا](https://sourcearena.ir/%d9%88%d8%a8-%d8%b3%d8%b1%d9%88%db%8c%d8%b3-api-%d9%82%db%8c%d9%85%d8%aa-%d8%ae%d9%88%d8%af%d8%b1%d9%88/) | قیمت روزانه خودروها <!-- markdown-link-check-disable-line -->
 :question: | [API سرویس‌های پاد](http://docs.pod.ir/) | مستندات سرویس‌های متنوع پاد از فناپ سافت <!-- markdown-link-check-disable-line -->
 :question: | [API درگاه رمزارز زنجیر](https://github.com/Zanjir/API-Documentation/) | وب سرویس درگاه پرداخت رمز ارز
 :question: | [API نامبرلند](https://numberland.ir/developers) | سرویس ارائه شماره مجازی
-:moneybag: | [API قبضینو](https://ghabzino.com/api) | مجموعه استعلام‌های قبوض مختلف خدماتی از جمله قبض آب و برق و گاز و ... 
-:question: | [API تامین اجتماعی](https://apiissue.tamin.ir/) | مجموعه راهنماهای پیاده‌سازی API دارو و استعلامات تامین اجتماعی <!-- markdown-link-check-disable-line -->
+:moneybag: | [API قبضینو](https://ghabzino.com/api) | مجموعه استعلام‌های قبوض مختلف خدماتی از جمله قبض آب و برق و گاز و ...
  :free::moneybag: | [API نجوا](https://doc.najva.com/) | سرویس پوش نوتیفیکیشن نجوا
 :moneybag: | [API آنالیکا](https://www.analika.com/api) | سرویس تحلیل رفتار و بازاریابی هوشمند
 :free: | [API دیجی‌کالا](https://gist.github.com/sh-sh-dev/542724a6ac72dc04623ecffaa4989620) | توضیحات استفاده از API دیجی‌کالا که در gist ارائه شده
@@ -219,4 +216,16 @@
  :question: | [API ذرت](http://filecorn.api-docs.io/) | سرویس فضای ابری اختصاصی
 
  [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
+
+
+## حاکمیتی
+وضعیت قیمت | لینک | موضوع
+ | --- |--- | ---
+:question: | [API امتا](https://ecsw.ir/developer/) | سامانه یکپارچه احراز مشتریان تجارت الکترونیک <!-- markdown-link-check-disable-line -->
+:question: | [API تامین اجتماعی](https://apiissue.tamin.ir/) | مجموعه راهنماهای پیاده‌سازی API دارو و استعلامات تامین اجتماعی <!-- markdown-link-check-disable-line -->
+:free: | [API خدمات شهری تهران](http://api.tehran.ir/) | مجموعه اطلاعات شهری تهران با قابلیت درخواست API <!-- markdown-link-check-disable-line -->
+
+[:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
+
+
 </div>
