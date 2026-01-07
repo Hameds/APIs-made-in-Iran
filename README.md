@@ -62,6 +62,7 @@
 :question: | [API نامبرلند](https://numberland.ir/developers) | سرویس ارائه شماره مجازی
 :moneybag: | [API قبضینو](https://ghabzino.com/api) | مجموعه استعلام‌های قبوض مختلف خدماتی از جمله قبض آب و برق و گاز و ...
 :moneybag: | [API میکائو](https://mikaeo.ir/api-sales) | دریافت اخبار مختلف براساس دسته‌بندی، خبرگزاری با امکان جستجو
+:free: | [API دیوار](https://divar.ir/kenar/) | آگهی و نیازمندی های سایت دیوار
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
