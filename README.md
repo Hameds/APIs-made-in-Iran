@@ -274,45 +274,45 @@
 ## 🗄️ بایگانی موارد غیرفعال
 :warning: این APIها دیگر در آدرس ارائه شده قابل دسترس نیستند و صرفاً جهت بایگانی در این بخش قرار داده شده‌اند.
 
-وضعیت قیمت | لینک | موضوع
-| --- |--- | ---
-:moneybag: | [API ابرفانت](https://abrfa.net/api/) | سرویس استعلام قبض همراه اول و ایرانسل و نرخ ارز و کریپتو<!-- markdown-link-check-disable-line -->  
-:free::moneybag: | [API سیدار مپ](http://api.cedarmaps.com/docs/) | سرویس نقشه ایرانی با قابلیت‌هایی نظیر تبدیل نقطه جغرافیایی به آدرس و مکان یاب و جانمایی روی نقشه <!-- markdown-link-check-disable-line -->
-:free: | [API پلاکیاب](https://docs.ineo-team.ir/pelakyab/) | سرویس پلاک یاب (با وارد کردن نمره 2 رقمی و حرف پلاک، استان و شهر مربوط به آن پلاک ماشین را پیدا کنید) <!-- markdown-link-check-disable-line -->
-:moneybag: | [API پست بار](https://postbar.ir/%D9%86%D8%AD%D9%88%D9%87-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-api-%D9%BE%D8%B3%D8%AA-%D8%A8%D8%A7%D8%B1) | سرویس حمل و نقل بار پستی <!-- markdown-link-check-disable-line -->
-:moneybag: | [API وب‌آلفا](https://www.webalfa.net/kb/api-v2-manual) | API برای ثبت و تمدید و انتقال و به‌روزرسانی و دریافت اطلاعات دامنه‌های ir <!-- markdown-link-check-disable-line -->
-:moneybag: | [API آنالیکا](https://www.analika.com/api) | سرویس تحلیل رفتار و بازاریابی هوشمند <!-- markdown-link-check-disable-line -->
-:question: | [API پیام‌رسان لیمو](https://limoo.im/integration-app/) | پیام‌رسان کسب و کار لیمو، شامل SDK به جاوا و پایتون <!-- markdown-link-check-disable-line -->
-:moneybag: | [API منحنی](https://planner.monhani.ir/) | API تجاری و غیر رایگان برای برنامه‌ریزی سفر <!-- markdown-link-check-disable-line -->
-:free::moneybag: | [API پوشه](https://pushe.co/docs) | سرویس ارسال پوش نوتیفیکیشن <!-- markdown-link-check-disable-line -->
-:free::moneybag: | [API نیواد](https://nivad.io/docs/home/) | نیواد ارائه‌دهنده Backend as a Service برای ساخت بازی، اپلیکیشن و وب‌سایت‌ است <!-- markdown-link-check-disable-line -->
-:free: | [API داده نمونه فارسی](https://jsonplaceholder.ir/) | سرویسی رایگان برای برگرداندن داده نمونه شامل دسته‌بندی‌هایی نظیر پست وبلاگ، کامنت، کاربر و ... با امکان CRUD <!-- markdown-link-check-disable-line -->
-:free: | [API دیتاک](https://sakoo.ai/) | دیتاست‌ها و API‌ در حوزه پردازش متن <!-- markdown-link-check-disable-line -->
-:free::moneybag: | [API واکاویک](http://docs.vakavic.com/) | سرویس پردازش متن با قابلیت‌هایی نظیر دسته‌بندی و خلاصه‌کردن متن و نظارت بر کامنت‌ها <!-- markdown-link-check-disable-line -->
-:moneybag: | [API فلوکس](https://phelox.ir/document) | درگاه مدیریت و ارائه خدمات حمل، بسته‌بندی، لجستیک و انبارداری فروشگاه‌های اینترنتی <!-- markdown-link-check-disable-line -->
-:free: | [API اطلاعات رایگان برای توسعه‌دهندگان اپلیکیشن](https://getfreejson.ir/) | مجموعه API رایگان برای نام استان‌ها و شهرها و کد شهرها و دانشگاه‌ها و آب و هوا و .. <!-- markdown-link-check-disable-line -->
-:free::moneybag: | [API نرخ ارز](https://exapi.sm4rt.ir/) | تا ۵۰۰ درخواست در روز رایگان است <!-- markdown-link-check-disable-line -->
-:moneybag: | [API شبکه پرداخت پِی](https://docs.pay.ir/gateway/) | سرویس درگاه شبکه پرداخت پِی <!-- markdown-link-check-disable-line -->
-:free: | [API گاهشمار](http://gahshomar-api.herokuapp.com) | سرویس اپن‌سورس برای کار با زمان و تاریخ با قابلیت تبدیل تاریخ <!-- markdown-link-check-disable-line -->
-:question: | [API توسن بوم](http://tosanboom.com/home/help/api-list) | سرویس‌های بانکی نظیر فهرست سپرده‌های مشتریان بانک‌ها، انتقال وجه بین سپرده‌ها، اعلام موجودی کارت و ... <!-- markdown-link-check-disable-line -->
-:free: | [API اطلاعات شهرداری مشهد](http://developer.mashhad.ir/web_directory/100147-%D9%81%D9%87%D8%B1%D8%B3%D8%AA-API.html) | اطلاعات شاخص کیفیت هوا، ظرفیت لحظه‌ای پارکنیگ‌ها و نقشه و اطلاع‌رسانی اتوبوسرانی <!-- markdown-link-check-disable-line -->
-:free: | [API کپچای متنی](http://textcaptcha.ir/api) | سرویس ارائه کپچای متنی فارسی <!-- markdown-link-check-disable-line -->
-:moneybag: | [API ابرینو](https://abrino.ir/developers) | سرویس ذخیره‌سازی اطلاعات ابری برای توسعه‌دهندگان موبایل و وب <!-- markdown-link-check-disable-line -->
-:moneybag: | [API درگاه باهمتا](https://apieco.ir/api/bahamta-payment/) | درگاه پرداخت باهمتا <!-- markdown-link-check-disable-line -->
-:question: | [API پیام‌رسان سروش](https://soroush-app.ir/developer.html) | پیام‌رسان ایرانی سروش <!-- markdown-link-check-disable-line -->
-:free::moneybag: | [API بفرست](https://bef.rest/documentation) | سرویس ارسال پوش نوتیفیکیشن <!-- markdown-link-check-disable-line -->
-:free: | [API چشمک](https://www.cheshmak.me/docs/) | سرویس ارسال پوش نوتیفیکیشن و آمار استفاده برای اپلیکیشن‌های موبایل <!-- markdown-link-check-disable-line -->
-:free: | [API پارسی جو](http://csi.parsijoo.ir/) | جستجوی وب، قیمت ارز و سکه، آب و هوا و نقشه <!-- markdown-link-check-disable-line -->
-:moneybag: | [API دیتابین](http://databeen.ir/documents) | سرویس زیرساخت تحلیل داده اپلیکیشنهای موبایلی <!-- markdown-link-check-disable-line -->
-:free: | [API بانک سامان](https://www.sep.ir/اطلاعات-فنی) | سرویس درگاه پرداخت اینترنتی بانک سامان - پرداخت الکترونیک سامان کیش <!-- markdown-link-check-disable-line -->
-:question: | [API شبکه اجتماعی پروفایل](https://developers.profile.ir/) | دسترسی به اطلاعات عمومی ثبت‌شده کاربران و تصویر پروفایل <!-- markdown-link-check-disable-line -->
-:free::moneybag: | [API سرویس recommender](http://recommender.ir/) | سرویس ارائه خدمات شخصی‌سازی محتوا <!-- markdown-link-check-disable-line -->
-:free::moneybag: | [API تلسا](http://telesa.ir/) | سرویس‌های مبتنی بر صوت شامل پیام صوتی، تبدیل متن به گفتار <!-- markdown-link-check-disable-line -->
-:moneybag: | [API پردانو](https://pardano.com/lab) | سرویس درگاه شبکه پرداخت پردانو <!-- markdown-link-check-disable-line -->
-:free: | [API رسید](https://resid.ir/docs/) | سرویس پرداخت کرایه تاکسی <!-- markdown-link-check-disable-line -->
-:moneybag: | [API جیب](https://jeeb.io/documentation) | درگاه پرداخت امن و ناشناس با بیت‌کوین <!-- markdown-link-check-disable-line -->
-:moneybag: | [API سخنک](http://sokhanak.com/api/) | بانک سخن بزرگان <!-- markdown-link-check-disable-line -->
-:free: | [API تقویم فارسی](https://farsicalendar.com/docs) | ارائه رویدادهای تقویم شمسی و قمری در قالب API <!-- markdown-link-check-disable-line -->
+لینک | موضوع
+|---|---
+[API ابرفانت](https://abrfa.net/api/) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | سرویس استعلام قبض همراه اول و ایرانسل و نرخ ارز و کریپتو<!-- markdown-link-check-disable-line -->  
+[API سیدار مپ](http://api.cedarmaps.com/docs/) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | سرویس نقشه ایرانی با قابلیت‌هایی نظیر تبدیل نقطه جغرافیایی به آدرس و مکان یاب و جانمایی روی نقشه <!-- markdown-link-check-disable-line -->
+[API پلاکیاب](https://docs.ineo-team.ir/pelakyab/) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | سرویس پلاک یاب (با وارد کردن نمره 2 رقمی و حرف پلاک، استان و شهر مربوط به آن پلاک ماشین را پیدا کنید) <!-- markdown-link-check-disable-line -->
+[API پست بار](https://postbar.ir/%D9%86%D8%AD%D9%88%D9%87-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-api-%D9%BE%D8%B3%D8%AA-%D8%A8%D8%A7%D8%B1) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | سرویس حمل و نقل بار پستی <!-- markdown-link-check-disable-line -->
+[API وب‌آلفا](https://www.webalfa.net/kb/api-v2-manual) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | API برای ثبت و تمدید و انتقال و به‌روزرسانی و دریافت اطلاعات دامنه‌های ir <!-- markdown-link-check-disable-line -->
+[API آنالیکا](https://www.analika.com/api) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | سرویس تحلیل رفتار و بازاریابی هوشمند <!-- markdown-link-check-disable-line -->
+[API پیام‌رسان لیمو](https://limoo.im/integration-app/) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | پیام‌رسان کسب و کار لیمو، شامل SDK به جاوا و پایتون <!-- markdown-link-check-disable-line -->
+[API منحنی](https://planner.monhani.ir/) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | API تجاری و غیر رایگان برای برنامه‌ریزی سفر <!-- markdown-link-check-disable-line -->
+[API پوشه](https://pushe.co/docs) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | سرویس ارسال پوش نوتیفیکیشن <!-- markdown-link-check-disable-line -->
+[API نیواد](https://nivad.io/docs/home/) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | نیواد ارائه‌دهنده Backend as a Service برای ساخت بازی، اپلیکیشن و وب‌سایت‌ است <!-- markdown-link-check-disable-line -->
+[API داده نمونه فارسی](https://jsonplaceholder.ir/) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | سرویسی رایگان برای برگرداندن داده نمونه شامل دسته‌بندی‌هایی نظیر پست وبلاگ، کامنت، کاربر و ... با امکان CRUD <!-- markdown-link-check-disable-line -->
+[API دیتاک](https://sakoo.ai/) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | دیتاست‌ها و API‌ در حوزه پردازش متن <!-- markdown-link-check-disable-line -->
+[API واکاویک](http://docs.vakavic.com/) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | سرویس پردازش متن با قابلیت‌هایی نظیر دسته‌بندی و خلاصه‌کردن متن و نظارت بر کامنت‌ها <!-- markdown-link-check-disable-line -->
+[API فلوکس](https://phelox.ir/document) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | درگاه مدیریت و ارائه خدمات حمل، بسته‌بندی، لجستیک و انبارداری فروشگاه‌های اینترنتی <!-- markdown-link-check-disable-line -->
+[API اطلاعات رایگان برای توسعه‌دهندگان اپلیکیشن](https://getfreejson.ir/) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | مجموعه API رایگان برای نام استان‌ها و شهرها و کد شهرها و دانشگاه‌ها و آب و هوا و .. <!-- markdown-link-check-disable-line -->
+[API نرخ ارز](https://exapi.sm4rt.ir/) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | تا ۵۰۰ درخواست در روز رایگان است <!-- markdown-link-check-disable-line -->
+[API شبکه پرداخت پِی](https://docs.pay.ir/gateway/) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | سرویس درگاه شبکه پرداخت پِی <!-- markdown-link-check-disable-line -->
+[API گاهشمار](http://gahshomar-api.herokuapp.com) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | سرویس اپن‌سورس برای کار با زمان و تاریخ با قابلیت تبدیل تاریخ <!-- markdown-link-check-disable-line -->
+[API توسن بوم](http://tosanboom.com/home/help/api-list) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | سرویس‌های بانکی نظیر فهرست سپرده‌های مشتریان بانک‌ها، انتقال وجه بین سپرده‌ها، اعلام موجودی کارت و ... <!-- markdown-link-check-disable-line -->
+[API اطلاعات شهرداری مشهد](http://developer.mashhad.ir/web_directory/100147-%D9%81%D9%87%D8%B1%D8%B3%D8%AA-API.html) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | اطلاعات شاخص کیفیت هوا، ظرفیت لحظه‌ای پارکنیگ‌ها و نقشه و اطلاع‌رسانی اتوبوسرانی <!-- markdown-link-check-disable-line -->
+[API کپچای متنی](http://textcaptcha.ir/api) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | سرویس ارائه کپچای متنی فارسی <!-- markdown-link-check-disable-line -->
+[API ابرینو](https://abrino.ir/developers) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | سرویس ذخیره‌سازی اطلاعات ابری برای توسعه‌دهندگان موبایل و وب <!-- markdown-link-check-disable-line -->
+[API درگاه باهمتا](https://apieco.ir/api/bahamta-payment/) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | درگاه پرداخت باهمتا <!-- markdown-link-check-disable-line -->
+[API پیام‌رسان سروش](https://soroush-app.ir/developer.html) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | پیام‌رسان ایرانی سروش <!-- markdown-link-check-disable-line -->
+[API بفرست](https://bef.rest/documentation) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | سرویس ارسال پوش نوتیفیکیشن <!-- markdown-link-check-disable-line -->
+[API چشمک](https://www.cheshmak.me/docs/) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | سرویس ارسال پوش نوتیفیکیشن و آمار استفاده برای اپلیکیشن‌های موبایل <!-- markdown-link-check-disable-line -->
+[API پارسی جو](http://csi.parsijoo.ir/) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | جستجوی وب، قیمت ارز و سکه، آب و هوا و نقشه <!-- markdown-link-check-disable-line -->
+[API دیتابین](http://databeen.ir/documents) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | سرویس زیرساخت تحلیل داده اپلیکیشنهای موبایلی <!-- markdown-link-check-disable-line -->
+[API بانک سامان](https://www.sep.ir/اطلاعات-فنی) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | سرویس درگاه پرداخت اینترنتی بانک سامان - پرداخت الکترونیک سامان کیش <!-- markdown-link-check-disable-line -->
+[API شبکه اجتماعی پروفایل](https://developers.profile.ir/) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | دسترسی به اطلاعات عمومی ثبت‌شده کاربران و تصویر پروفایل <!-- markdown-link-check-disable-line -->
+[API سرویس recommender](http://recommender.ir/) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | سرویس ارائه خدمات شخصی‌سازی محتوا <!-- markdown-link-check-disable-line -->
+[API تلسا](http://telesa.ir/) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | سرویس‌های مبتنی بر صوت شامل پیام صوتی، تبدیل متن به گفتار <!-- markdown-link-check-disable-line -->
+[API پردانو](https://pardano.com/lab) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | سرویس درگاه شبکه پرداخت پردانو <!-- markdown-link-check-disable-line -->
+[API رسید](https://resid.ir/docs/) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | سرویس پرداخت کرایه تاکسی <!-- markdown-link-check-disable-line -->
+[API جیب](https://jeeb.io/documentation) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | درگاه پرداخت امن و ناشناس با بیت‌کوین <!-- markdown-link-check-disable-line -->
+[API سخنک](http://sokhanak.com/api/) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | بانک سخن بزرگان <!-- markdown-link-check-disable-line -->
+[API تقویم فارسی](https://farsicalendar.com/docs) ![Static Badge](https://img.shields.io/badge/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-critical?style=flat-square&logo=github) | ارائه رویدادهای تقویم شمسی و قمری در قالب API <!-- markdown-link-check-disable-line -->
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
