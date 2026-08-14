@@ -243,6 +243,8 @@
  :free: | :globe_with_meridians: | [API رایگان قیمت فلزات گران‌بها](https://brsapi.ir/free-api-commodity-webservice/) | قیمت لحظه‌ای فلزات گران‌بها و انرژی                                                                                                      
  :free: | :globe_with_meridians: | [API رایگان قیمت ارز دیجیتال](https://brsapi.ir/free-api-cryptocurrency-webservice/) | قیمت لحظه‌ای بیش از ۳ هزار ارز دیجیتال                                                                                                   
  :free: | :globe_with_meridians: | [API قیمت تتر به تومان](https://api.zipodo.ir/usdt/) | نمایش قیمت تتر به تومان در قالب `json`
+ :free: | :globe_with_meridians: | [API قیمت دلار و بیت کوین ](https://nerkh-api.up.railway.app/prices) | نمایش قیمت روزانه دلار و بیت‌کوین در قالب `json`
+
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
