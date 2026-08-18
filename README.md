@@ -73,6 +73,7 @@
 :moneybag: | :globe_with_meridians: | [API میکائو](https://mikaeo.ir/api-sales) | دریافت اخبار مختلف براساس دسته‌بندی، خبرگزاری با امکان جستجو
 :free: | :globe_with_meridians: | [API دیوار](https://divar.ir/kenar/) | آگهی و نیازمندی های سایت دیوار
 :moneybag: | :globe_with_meridians: | [API فراگستر](https://api.faragostar.net/) | APIهای اتوماسیون کسب و کار فراگستر شامل ایجاد مکاتبات و اسناد، دریافت اطلاعات و سرویس‌های اطلاع‌رسانی
+:free::moneybag: | :globe_with_meridians: | [API سرچیا](https://searchia.ir/fa/docs/api-references) |  پلتفرم جستجو و دیسکاوری مبتنی بر هوش مصنوعی
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
