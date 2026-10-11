@@ -245,7 +245,7 @@
  :free: | :globe_with_meridians: | [API رایگان قیمت ارز دیجیتال](https://brsapi.ir/free-api-cryptocurrency-webservice/) | قیمت لحظه‌ای بیش از ۳ هزار ارز دیجیتال                                                                                                   
  :free: | :globe_with_meridians: | [API قیمت تتر به تومان](https://api.zipodo.ir/usdt/) | نمایش قیمت تتر به تومان در قالب `json`
  :free: | :globe_with_meridians: | [API قیمت دلار و بیت کوین ](https://nerkh-api.up.railway.app/prices) | نمایش قیمت روزانه دلار و بیت‌کوین در قالب `json`
-
+| :free: | :globe_with_meridians: | [API رایگان قیمت دلار، طلا، سکه و بازار ایران](https://github.com/iran-market/iran-market.github.io) | قیمت فعلی و تاریخچه ارز، طلا، سکه، تتر، رمزارزها و کالاها در قالب `JSON`؛ بدون ثبت‌نام و API Key، بروزرسانی قیمت‌ها هر ۳۰ دقیقه |
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
