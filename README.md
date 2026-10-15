@@ -152,6 +152,7 @@
 :free: | :globe_with_meridians: | [API ژاکت](https://zhaket.github.io/guard/)              | سرویس تعریف لایسنس برای ابزارهای وردپرسی
 :moneybag: | :globe_with_meridians: | [API ChatGPT](https://one-api.ir/api-chatgpt)            | سرویس ساخت ربات ChatGPT هوش مصنوعی
 :question: | :globe_with_meridians: | [API آرکپچا](https://docs.arcaptcha.co/fa/installation/) | سرویس محافظت در برابر بات‌ها و هرزنامه‌ها و آسیب‌های خودکار 
+:moneybag: | :globe_with_meridians: | [API هوش مصنوعی گیسو](https://gisoo.pro/api) | یک کلید سازگار با OpenAI برای مدل‌های GPT، Gemini، Claude، DeepSeek و دیگران؛ پرداخت از داخل ایران
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
 ## حاکمیتی
@@ -248,6 +249,7 @@
 | :free: | :globe_with_meridians: | [API رایگان قیمت دلار، طلا، سکه و بازار ایران](https://github.com/iran-market/iran-market.github.io) | قیمت فعلی و تاریخچه ارز، طلا، سکه، تتر، رمزارزها و کالاها در قالب `JSON`؛ بدون ثبت‌نام و API Key، بروزرسانی قیمت‌ها هر ۳۰ دقیقه |
  :free: | :globe_with_meridians: | [API نرخ‌سنج](https://nerkh.jahankhahan.shop/developers) | نرخ لحظه‌ای و آرشیو روزانهٔ دلار، یورو، یوان، طلا و سکه (از ۱۳۸۹) و محاسبهٔ قیمت روز کالا؛ بدون ثبت‌نام و API Key
 
+:free::moneybag: | :globe_with_meridians: | [API نرخ ارز نِت اَرز](https://netarz.ir/docs/fx) | نرخ خرید و فروش بیش از ۳۰ ارز به تومان، مبدل و ویجت؛ طرح رایگان با ۱۵ دقیقه تأخیر، طرح پرو با نرخ زنده و آرشیو روزانه
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
 ## مالی
